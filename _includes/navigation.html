@@ -1,11 +1,11 @@
 <ul class="no-bullets">
 	{% for link in site.navigation %}
 		{% assign active = nil %}
-		{% if page.url == link.path %}
+		{% if (page.url | replace: '.html', '') == link.path %}
 			{% assign active = 'active' %}
 		{% endif %}
 		<li>
-			<a class="{{ active }}" href="{{ link.path }}">{{ link.text }} ({{ page.url }})</a>
+			<a class="{{ active }}" href="{{ link.path }}">{{ link.text }}</a>
 		</li>
 	{% endfor %}
 </ul>
