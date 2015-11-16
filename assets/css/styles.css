@@ -63,6 +63,10 @@ footer p {
     border-bottom: thin solid #dfdfdf;
 }
 
+.sidebar ul li ul li {
+    padding-left: 0.5rem;
+}
+
 .sidebar ul li a.active {
   font-weight: 500;
 }
