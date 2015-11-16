@@ -1,12 +1,12 @@
 <ul class="no-bullets">
 	{% for link in site.navigation %}
-		{% assign page_url = page.url | replace: "index.html", "" %}
+		{% assign page_url = page.url | replace: 'index.html', '' %}
 		{% assign active = '' %}
 		{% if page_url == link.path %}
-			{% assign active = 'active' %}
+			{% assign active = ' class="active"' %}
 		{% endif %}
 		<li>
-			<a{% active != '' %} class="{{ active }}"{% endif %} href="{{ link.path }}">{{ link.text }}</a>
+			<a{{ active }} href="{{ link.path }}">{{ link.text }}</a>
 		</li>
 	{% endfor %}
 </ul>
