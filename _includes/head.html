@@ -1,1 +1,30 @@
-
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# website: http://ogp.me/ns/website#" itemscope itemtype="http://schema.org/WebPage">
+	<meta charset="utf-8">
+	<meta name="robots" content="index,follow,noodp,noydir">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="{{ page.description }}">
+	<meta name="publisher" content="{{ page.author }}">
+	<meta property="og:site_name" content="{{ page.title }}">
+	<meta property="og:title" content="{{ page.title }}">
+	<meta itemprop="name" content="{{ page.title }}">
+	<meta property="og:description" content="{{ page.description }}">
+	<meta itemprop="description" content="{{ page.description }}">
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:url" content="">
+	<meta name="twitter:title" content="{{ page.title }}">
+	<meta name="twitter:description" content="{{ page.description }}">
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="">
+	<link rel="alternate" hreflang="de" href="">
+	<link rel="canonical" href="">
+	<title>{{ page.title }}</title>
+	<link href="//fastcdn.org/Responsive/4.1.1/responsive.min.css" rel="stylesheet" type="text/css">
+	<link href="//fastcdn.org/Font-Awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+<!--
+	<link href="//fonts.googleapis.com/css?family=Playfair+Display:400,700" rel="stylesheet" type="text/css">
+	<link href="//fonts.googleapis.com/css?family=Vollkorn:400,700" rel="stylesheet" type="text/css">
+-->
+	<link href="/assets/css/styles.css" rel="stylesheet" type="text/css">
+	{% include google-analytics.html %}
+</head>
