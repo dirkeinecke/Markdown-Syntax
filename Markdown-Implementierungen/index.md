@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Markdown-Implementierungen
 description: Markdown-Implementierungen
 ---
