@@ -16,7 +16,7 @@ Der folgende Quelltext zeigt Ihnen die Auszeichnung von Zitaten mit *Markdown*.
 > et justo duo dolores et ea rebum.
 {% endhighlight %}
 
-Einigen von Ihnen wird dies sicher aus E-Mails bekannt vorkommen. Und genau aus diesem Zusammenhang ist die Syntax aus entlehnt. 
+Einigen von Ihnen wird dies sicher aus E-Mails bekannt vorkommen. Und genau aus diesem Zusammenhang ist die Syntax auch entlehnt. 
 
 Dieser HTML-Quelltext zeigt Ihnen nun, was aus dem vorherigen Markdown-Beispiel generiert wird.
 
