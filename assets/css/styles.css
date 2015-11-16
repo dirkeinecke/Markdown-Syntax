@@ -52,11 +52,13 @@ footer p {
 }
 
 .sidebar {
-  font-size: 1.0rem;
+  margin-top: 2rem;
+  font-size: 0.8rem;
 }
 
 .sidebar ul li a {
     display: block;
-    padding: 0.8rem 0 0.8rem 0;
+    padding: 0.6rem 0 0.6rem 0;
+    margin-right: 1rem;
     border-bottom: thin solid #dfdfdf;
 }
