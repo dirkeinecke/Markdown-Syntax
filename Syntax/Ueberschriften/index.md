@@ -45,8 +45,6 @@ Weitere Überschriftenebenen (`<h3>` bis `<h6>`) sind mit dieser Variante nicht 
 # Überschrift ersten Grades
 {% endhighlight %}
 
-# Überschrift ersten Grades
-
 Hier sehen Sie den HTML-Quelltext, der aus dem vorherigen Markdown-Beispiel erzeugt wird.
 
 {% highlight html %}
@@ -55,7 +53,9 @@ Hier sehen Sie den HTML-Quelltext, der aus dem vorherigen Markdown-Beispiel erze
 
 Wie Sie sehen, wird auch bei dieser Variante automatisch der Text der Überschrift etwas aufbereitet und als Wert des `id`-Attributs eingesetzt. Dabei ergibt sich für die deutschen Umlaute das selbe Problem wie berits oben bei der ersten Möglichkeit beschrieben.
 
-Überschriften ersten Grades (`<h2>`) werden durch **zwei Rauten** am Zeilenanfang kenntlich gemacht.
+Für die nächsten Beispiele sind die erzeugten HTML-Quelltext dementsprechend equivalent und ich werde mir das Notieren dieser hier sparen.
+
+Überschriften zweiten Grades (`<h2>`) werden durch **zwei Rauten** am Zeilenanfang kenntlich gemacht.
 
 {% highlight text %}
 ## Überschrift zweiten Grades
