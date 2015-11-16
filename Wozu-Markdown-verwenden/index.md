@@ -6,7 +6,7 @@ description: Markdown-Syntax
 
 ## Wozu *Markdown* verwenden?
 
-*Markdown* wurde für exakt einen Zweck entwickelt: Für das *Schreiben* im Web.
+*Markdown* wurde für exakt einen Zweck entwickelt: Für das *Schreiben* im Web. Dabei soll *Markdown* HTML nicht ersetzen oder erweitern oder gar das Schreiben von HTML vereinfachen. Mit dem *Schreiben für das Web* ist in diesem Fall das Schreiben von Texten gemeint. Im Gegensatz zu HTML, was ein Veröffentlichungsformat ist, ist Markdown für das einfache Auszeichnen/ Formatieren von Texten konzipiert.
 
 Es gibt bereits einige Content Management Systeme bzw. Blogsysteme, die von Haus aus mit einer *Markdown*-Unterstützung ausgestattet sind. Hierzu zählen zum Beispiel [Anchor](https://anchorcms.com){:target="_blank"}, [Kirby](http://getkirby.com){:target="_blank"} und [Dropplets](http://dropplets.com){:target="_blank"}. WordPress kann zwar mit Bordmitteln zunächst nichts mit *Markdown* anfangen, doch hierfür gibt es ein ["WP-Markdown"-Plugin](https://wordpress.org/plugins/wp-markdown/){:target="_blank"}.
 
