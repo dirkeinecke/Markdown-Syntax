@@ -14,3 +14,13 @@ defaults:
     values:
       layout: default
       author: Dirk Einecke
+
+navigation:
+  - text: Was ist Markdown?
+    path: /Was-ist-Markdown/
+  - text: Wozu Markdown verwenden?
+    path: /Wozu-Markdown-verwenden/
+  - text: Markdown-Implementierungen
+    path: /Markdown-Implementierungen/
+  - text: Syntax
+    path: /Syntax/
