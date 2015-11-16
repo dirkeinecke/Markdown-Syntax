@@ -6,7 +6,7 @@
 			{% assign active = 'active' %}
 		{% endif %}
 		<li>
-			<a class="{{ active }}" href="{{ link.path }}">{{ link.text }}</a>
+			<a class="{{ active }}" href="{{ link.path }}">{{ link.text }} ({{ page_url }} / {{ link.path }})</a>
 		</li>
 	{% endfor %}
 </ul>
