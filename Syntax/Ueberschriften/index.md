@@ -9,14 +9,14 @@ description: Markdown-Syntax - Überschriften
 
 ### Möglichkeit 1
 
-Überschrift ersten Grades (`<h1>`)
+Überschriften ersten Grades (`<h1>`) werden durch **Gleichheitszeichen** unter dem Text der Überschrift kenntlich gemacht. Dabei ist es egal, wieviele Gleichheitszeichen man verwendet.
 
 {% highlight text %}
 Überschrift ersten Grades
 =========================
 {% endhighlight %}
 
-Überschrift zweiten Grades (`<h2>`)
+Überschriften zweiten Grades (`<h1>`) werden durch **Bindestriche** unter dem Text der Überschrift kenntlich gemacht. Dabei ist es egal, wieviele Bindestriche man verwendet.
 
 {% highlight text %}
 Überschrift zweiten Grades
