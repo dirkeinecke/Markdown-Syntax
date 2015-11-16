@@ -50,3 +50,13 @@ footer p {
   margin: 0;
   padding: 0;
 }
+
+.sidebar {
+  font-size: 1.0rem;
+}
+
+..sidebar ul li a {
+    display: block;
+    padding: 0.8rem 0 0.8rem 0;
+    border-bottom: thin solid #dfdfdf;
+}
