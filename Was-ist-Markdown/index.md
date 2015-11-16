@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Was ist Markdown
 description: Was ist Markdown
 ---
