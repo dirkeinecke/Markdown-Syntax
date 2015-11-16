@@ -29,7 +29,7 @@ et justo duo dolores et ea rebum.</p>
 </blockquote>
 {% endhighlight %}
 
-Sie können, genauso wie bei E-Mails, auch mehrere Zitatebenen verwenden. Um eine weitere Zitatebene zu kennzeichnen, fügen Sie einfach an den Zeilenanfang weitere `>`-Zeichen gefolgt von einem Leerzeichen. Das folgende Beispiel zeigt Ihnen eine zweite Zitatebene für die ersten beiden Zeilen.
+Sie können, genauso wie bei E-Mails, auch mehrere Zitatebenen verwenden. Um eine weitere Zitatebene zu kennzeichnen, fügen Sie einfach an den Zeilenanfang weitere `>`-Zeichen gefolgt von einem Leerzeichen ein. Das folgende Beispiel zeigt Ihnen eine zweite Zitatebene für die ersten beiden Zeilen.
 
 {% highlight text %}
 > > Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
