@@ -51,7 +51,7 @@ et justo duo dolores et ea rebum.</p>
 </blockquote>
 {% endhighlight %}
 
-Zitate können natürlich auch selbst andere Auszeichnungen enthalten. Dr folgende Quelltext zeigt Ihnen dazu beispielhaft, wie man innerhalb eines Zitats eine Überschrift (ersten Grades) notiert.
+Zitate können natürlich auch selbst andere *Markdown*-Auszeichnungen enthalten. Der folgende Quelltext zeigt Ihnen dazu beispielhaft, wie man innerhalb eines Zitats eine Überschrift (ersten Grades) notiert.
 
 {% highlight text %}
 > # Lorem ipsum
@@ -60,7 +60,13 @@ Zitate können natürlich auch selbst andere Auszeichnungen enthalten. Dr folgen
 > et justo duo dolores et ea rebum.
 {% endhighlight %}
 
-> # Lorem ipsum
-> sed diam nonumy eirmod tempor invidunt ut labore et dolore
-> magna aliquyam erat, sed diam voluptua. At vero eos et accusam
-> et justo duo dolores et ea rebum.
+Das folgende Beispiel zeigt den daraus erzeugen HTML-Quelltext.
+
+{% highlight html %}
+<blockquote>
+  <h1 id="lorem-ipsum">Lorem ipsum</h1>
+  <p>sed diam nonumy eirmod tempor invidunt ut labore et dolore
+magna aliquyam erat, sed diam voluptua. At vero eos et accusam
+et justo duo dolores et ea rebum.</p>
+</blockquote>
+{% endhighlight %}
