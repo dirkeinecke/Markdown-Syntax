@@ -27,3 +27,5 @@ navigation:
     items:
       - text: Überschriften
         path: /Syntax/Ueberschriften/
+      - text: Zitate
+        path: /Syntax/Zitate/
