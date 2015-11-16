@@ -1,11 +1,11 @@
 ---
 title: Markdown-Syntax - Überschriften
-description: Markdown-Syntax - Überschriften
+description: Markdown bietet zwei verschiedene Möglichkeiten, Überschriften auszuzeichnen. Auf dieser Seite werden beide Möglichkeiten beschrieben.
 ---
 
 ## Überschriften
 
-*Markdown* bietet Ihnen zwei verschiedene Möglichkeiten, Überschriften auszuzeichnen.
+*Markdown* bietet Ihnen zwei verschiedene Möglichkeiten, Überschriften auszuzeichnen. Im Folgenden werden beide Möglichkeiten beschrieben. 
 
 ### Möglichkeit 1 (Setext)
 
