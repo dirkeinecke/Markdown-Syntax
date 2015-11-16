@@ -11,24 +11,24 @@ description: Markdown-Syntax - Überschriften
 
 Überschrift ersten Grades (`<h1>`)
 
-```
+{% highlight text %}
 Überschrift ersten Grades
 =========================
-```
+{% endhighlight %}
 
 Überschrift zweiten Grades (`<h2>`)
 
-```
+{% highlight text %}
 Überschrift zweiten Grades
 --------------------------
-```
+{% endhighlight %}
 
 ### Möglichkeit 2
 
-```
+{% highlight text %}
 # Überschrift ersten Grades
-```
+{% endhighlight %}
 
-```
+{% highlight text %}
 ## Überschrift zweiten Grades
-```
+{% endhighlight %}
