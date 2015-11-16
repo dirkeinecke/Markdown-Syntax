@@ -9,6 +9,8 @@ description: Markdown bietet zwei verschiedene Möglichkeiten, Überschriften au
 
 ### Möglichkeit 1 (Setext)
 
+#### Überschriften ersten Grades
+
 Überschriften ersten Grades (`<h1>`) werden durch **Gleichheitszeichen** unter dem Text der Überschrift kenntlich gemacht. Dabei ist es egal, wieviele Gleichheitszeichen Sie verwenden.
 
 {% highlight text %}
@@ -23,6 +25,8 @@ Hier sehen Sie den HTML-Quelltext, der aus dem vorherigen Markdown-Beispiel erze
 {% endhighlight %}
 
 Wie Sie sehen, wird dabei automatisch der Text der Überschrift etwas aufbereitet und als Wert des `id`-Attributs eingesetzt. Dies ist zum Beispiel dann sinnvoll, wenn Übrschriften Ziele von Sprungmarken sind. Bei der Aufbereitung des Textes werden leider nur einfache alphanumerische Zeichen zugelassen. In dieser Menge sind zum Beispiel die deutschen Umlaute und das ß nicht mit enthalten und werden einfach weggelassen.
+
+#### Überschriften zweiten Grades
 
 Überschriften zweiten Grades (`<h2>`) werden durch **Bindestriche** unter dem Text der Überschrift kenntlich gemacht. Dabei ist es egal, wieviele Bindestriche Sie verwenden.
 
