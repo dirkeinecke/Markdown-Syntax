@@ -26,4 +26,4 @@ navigation:
     path: /Syntax/
     items:
       - text: Überschriften
-      - path: /Syntax/Ueberschriften
+        path: /Syntax/Ueberschriften
