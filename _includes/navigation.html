@@ -6,7 +6,7 @@
 			{% assign active = 'active' %}
 		{% endif %}
 		<li>
-			<a class="{{ active }}" href="{{ link.path }}">{{ link.text }}</a>
+			<a{% active != empty %} class="{{ active }}"{% endif %} href="{{ link.path }}">{{ link.text }}</a>
 		</li>
 	{% endfor %}
 </ul>
