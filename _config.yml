@@ -24,3 +24,6 @@ navigation:
     path: /Markdown-Implementierungen/
   - text: Syntax
     path: /Syntax/
+    items:
+      - text: Überschriften
+      - path: /Syntax/Ueberschriften
