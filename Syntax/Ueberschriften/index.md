@@ -26,8 +26,10 @@ Hier sehen Sie den HTML-Quelltext, der aus dem vorherigen Markdown-Beispiel erze
 
 {% highlight text %}
 Überschrift zweiten Grades
-
+--------------------------
 {% endhighlight %}
+
+Hier sehen Sie den HTML-Quelltext, der aus dem vorherigen Markdown-Beispiel erzeugt wird.
 
 {% highlight html %}
 <h2>Überschrift zweiten Grades</h2>
