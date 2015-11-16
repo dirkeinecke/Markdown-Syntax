@@ -1,0 +1,16 @@
+encoding: utf-8
+timezone: Europe/Berlin
+
+baseurl: http://markdown-syntax.de
+
+gems:
+  - jekyll-sitemap
+  - jekyll-redirect-from
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: default
+      author: Dirk Einecke
