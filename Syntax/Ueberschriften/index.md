@@ -25,7 +25,7 @@ description: Markdown-Syntax - Überschriften
 
 Weitere Überschriftenebenen (`<h3>` bis `<h6>`) sind mit dieser Variante nicht möglich. Wenn Sie bereits wissen, dass Sie mehr als zwei Ebenen bei den Überschriften benötigen, dann sollten sie von Anfang an auf die nun folgende zweite Möglichkeit setzen.
 
-### Möglichkeit 2
+### Möglichkeit 2 (atx)
 
 Überschriften ersten Grades (`<h1>`) werden durch **eine Raute** am Zeilenanfang kenntlich gemacht.
 
@@ -64,3 +64,9 @@ Weitere Überschriftenebenen (`<h3>` bis `<h6>`) sind mit dieser Variante nicht 
 {% endhighlight %}
 
 Wie Sie sehen, können Sie so alle durch HTML bekannten Überschriftenebenen umsetzen.
+
+Bei dieser Variante können Sie zusätzlich zu den Raute-Zeichen am Anfang der Zeile auch noch Raute-Zeichen nach dem Text setzen. Die Anzahl der Raute-Zeichen am Ende der Zeile muss nicht zwangsläufig mit der Anzahl der Raute-Zeichen am Anfang der Zeile übereinstimmen. Wie gesagt, diese sind optional und nur dafür da, dass es dem ein oder anderen von Ihnen eventuell besser gefällt. Der folgende Quelltext zeigt dies beispielhaft für eine Überschrift dritten Grades.
+
+{% highlight text %}
+### Überschrift dritten Grades ###
+{% endhighlight %}
