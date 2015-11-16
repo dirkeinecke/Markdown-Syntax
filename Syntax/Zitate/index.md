@@ -50,3 +50,17 @@ et justo duo dolores et ea rebum.</p>
   </blockquote>
 </blockquote>
 {% endhighlight %}
+
+Zitate können natürlich auch selbst andere Auszeichnungen enthalten. Dr folgende Quelltext zeigt Ihnen dazu beispielhaft, wie man innerhalb eines Zitats eine Überschrift (ersten Grades) notiert.
+
+{% highlight text %}
+> # Lorem ipsum
+> sed diam nonumy eirmod tempor invidunt ut labore et dolore
+> magna aliquyam erat, sed diam voluptua. At vero eos et accusam
+> et justo duo dolores et ea rebum.
+{% endhighlight %}
+
+> # Lorem ipsum
+> sed diam nonumy eirmod tempor invidunt ut labore et dolore
+> magna aliquyam erat, sed diam voluptua. At vero eos et accusam
+> et justo duo dolores et ea rebum.
