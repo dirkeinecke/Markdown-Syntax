@@ -5,7 +5,7 @@ description: Markdown-Implementierungen
 
 ## *Markdown*-Implementierungen
 
-Die Referenzimplementierung von Markdown wurde in Programmiersprache Perl bereitsgestellt.
+Die Referenzimplementierung von Markdown wurde in Programmiersprache Perl von John Gruber bereitsgestellt.
 
 Mittlerweile gibt es für die gängigsten Programmiersprachen entsprechende Implementierungen:
 
