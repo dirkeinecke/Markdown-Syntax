@@ -22,7 +22,7 @@ Dieser HTML-Quelltext zeigt Ihnen nun, was aus dem vorherigen Markdown-Beispiel 
 
 {% highlight html %}
 <blockquote>
-<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
+  <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
 sed diam nonumy eirmod tempor invidunt ut labore et dolore
 magna aliquyam erat, sed diam voluptua. At vero eos et accusam
 et justo duo dolores et ea rebum.</p>
@@ -38,7 +38,15 @@ Sie können, genauso wie bei E-Mails, auch mehrere Zitatebenen verwenden. Um ein
 > et justo duo dolores et ea rebum.
 {% endhighlight %}
 
-> > Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
-> > sed diam nonumy eirmod tempor invidunt ut labore et dolore
-> magna aliquyam erat, sed diam voluptua. At vero eos et accusam
-> et justo duo dolores et ea rebum.
+Der folgende Quelltext zeigt Ihnen den durch das vorherige Markdown-Beispiel generierten HTML-Quelltext.
+
+{% highlight html %}
+<blockquote>
+  <blockquote>
+    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
+sed diam nonumy eirmod tempor invidunt ut labore et dolore
+magna aliquyam erat, sed diam voluptua. At vero eos et accusam
+et justo duo dolores et ea rebum.</p>
+  </blockquote>
+</blockquote>
+{% endhighlight %}
