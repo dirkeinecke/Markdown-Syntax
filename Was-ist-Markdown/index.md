@@ -1,6 +1,9 @@
 ---
 title: Was ist Markdown
 description: Was ist Markdown
+redirect_from:
+  - /
+  - /index.html
 ---
 
 ## Was ist *Markdown*
