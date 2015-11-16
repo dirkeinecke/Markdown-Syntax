@@ -28,7 +28,7 @@ Wie Sie sehen, wird dabei automatisch der Text der Überschrift etwas aufbereite
 
 {% highlight text %}
 Überschrift zweiten Grades
---------------------------
+
 {% endhighlight %}
 
 {% highlight html %}
@@ -55,15 +55,11 @@ Wie Sie sehen, wird auch bei dieser Variante automatisch der Text der Überschri
 
 Für die nächsten Beispiele sind die erzeugten HTML-Quelltext dementsprechend equivalent und ich werde mir das Notieren dieser hier sparen.
 
-----------
-
 Überschriften zweiten Grades (`<h2>`) werden durch **zwei Rauten** am Zeilenanfang kenntlich gemacht.
 
 {% highlight text %}
 ## Überschrift zweiten Grades
 {% endhighlight %}
-
-----------
 
 Überschriften dritten Grades (`<h3>`) werden durch **drei Rauten** am Zeilenanfang kenntlich gemacht.
 
@@ -71,15 +67,11 @@ Für die nächsten Beispiele sind die erzeugten HTML-Quelltext dementsprechend e
 ### Überschrift dritten Grades
 {% endhighlight %}
 
-----------
-
 Überschriften vierten Grades (`<h4>`) werden durch **vier Rauten** am Zeilenanfang kenntlich gemacht.
 
 {% highlight text %}
 #### Überschrift vierten Grades
 {% endhighlight %}
-
-----------
 
 Überschriften fünften Grades (`<h5>`) werden durch **fünf Rauten** am Zeilenanfang kenntlich gemacht.
 
@@ -87,15 +79,11 @@ Für die nächsten Beispiele sind die erzeugten HTML-Quelltext dementsprechend e
 ##### Überschrift fünften Grades
 {% endhighlight %}
 
-----------
-
 Überschriften sechsten Grades (`<h6>`) werden durch **sechs Rauten** am Zeilenanfang kenntlich gemacht.
 
 {% highlight text %}
 ###### Überschrift sechsten Grades
 {% endhighlight %}
-
-----------
 
 Wie Sie sehen, können Sie so alle durch HTML bekannten Überschriftenebenen umsetzen.
 
