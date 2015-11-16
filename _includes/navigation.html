@@ -1,7 +1,7 @@
 <ul class="no-bullets">
 	{% for link in site.navigation %}
 		{% assign page_url = page.url | replace: "index.html", "" %}
-		{% assign active = nil %}
+		{% assign active = '' %}
 		{% if page_url == link.path %}
 			{% assign active = 'active' %}
 		{% endif %}
