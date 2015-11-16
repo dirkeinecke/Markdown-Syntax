@@ -19,10 +19,8 @@ description: Markdown bietet zwei verschiedene Möglichkeiten, Überschriften au
 Hier sehen Sie den HTML-Quelltext, der aus dem vorherigen Markdown-Beispiel erzeugt wird.
 
 {% highlight html %}
-<h1 id="berschrift-ersten-grades">Überschrift ersten Grades</h1>
+<h1>Überschrift ersten Grades</h1>
 {% endhighlight %}
-
-Wie Sie sehen, wird dabei automatisch der Text der Überschrift etwas aufbereitet und als Wert des `id`-Attributs eingesetzt. Dies ist zum Beispiel dann sinnvoll, wenn Übrschriften Ziele von Sprungmarken sind. Bei der Aufbereitung des Textes werden leider nur einfache alphanumerische Zeichen zugelassen. In dieser Menge sind zum Beispiel die deutschen Umlaute und das ß nicht mit enthalten und werden einfach weggelassen.
 
 Überschriften zweiten Grades (`<h2>`) werden durch **Bindestriche** unter dem Text der Überschrift kenntlich gemacht. Dabei ist es egal, wieviele Bindestriche Sie verwenden.
 
@@ -32,7 +30,7 @@ Wie Sie sehen, wird dabei automatisch der Text der Überschrift etwas aufbereite
 {% endhighlight %}
 
 {% highlight html %}
-<h2 id="berschrift-ersten-grades">Überschrift zweiten Grades</h2>
+<h2>Überschrift zweiten Grades</h2>
 {% endhighlight %}
 
 Weitere Überschriftenebenen (`<h3>` bis `<h6>`) sind mit dieser Variante nicht möglich. Wenn Sie bereits wissen, dass Sie mehr als zwei Ebenen bei den Überschriften benötigen, dann sollten sie von Anfang an auf die nun folgende zweite Möglichkeit setzen.
@@ -48,10 +46,8 @@ Weitere Überschriftenebenen (`<h3>` bis `<h6>`) sind mit dieser Variante nicht 
 Hier sehen Sie den HTML-Quelltext, der aus dem vorherigen Markdown-Beispiel erzeugt wird.
 
 {% highlight html %}
-<h1 id="berschrift-ersten-grades">Überschrift ersten Grades</h1>
+<h1>Überschrift ersten Grades</h1>
 {% endhighlight %}
-
-Wie Sie sehen, wird auch bei dieser Variante automatisch der Text der Überschrift etwas aufbereitet und als Wert des `id`-Attributs eingesetzt. Dabei ergibt sich für die deutschen Umlaute das selbe Problem wie berits oben bei der ersten Möglichkeit beschrieben.
 
 Für die nächsten Beispiele sind die erzeugten HTML-Quelltext dementsprechend equivalent und ich werde mir das Notieren dieser hier sparen.
 
