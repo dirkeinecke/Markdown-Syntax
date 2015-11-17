@@ -31,3 +31,5 @@ navigation:
         path: /Syntax/Zitate/
       - text: Horizontale Linien
         path: /Syntax/Horizontale-Linien/
+      - text: Absätze
+        path: /Syntax/Absaetze/
