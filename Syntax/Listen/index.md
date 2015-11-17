@@ -106,3 +106,25 @@ magna aliquyam erat, sed diam voluptua.</li>
 Lorem ipsum dolor sit amet.</li>
 </ul>
 {% endhighlight %}
+
+### Absätze in Listen
+
+Sowohl bei unsortierten als auch bei sortierten/ nummerierten Listen können Sie die einzelnen Einträge als Absätze definieren. Dazu trennen Sie die einzelnen Einträge durch Leerzeilen voneinander ab. Das folgende Beispiel zeigt dies exemplarisch.
+
+{% highlight text %}
+* Eintrag 1
+
+* Eintrag 2
+
+* Eintrag 3
+{% endhighlight %}
+
+Durch das *Markdown*-Beispiele wird folgender HTML-Quelltext erzeugt.
+
+{% highlight html %}
+<ul>
+<li><p>Eintrag 1</p></li>
+<li><p>Eintrag 2</p></li>
+<li><p>Eintrag 3</p></li>
+</ul>
+{% endhighlight %}
