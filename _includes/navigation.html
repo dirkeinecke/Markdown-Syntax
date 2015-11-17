@@ -5,6 +5,9 @@
 		{% if page_url == link.path %}
 			{% assign active = ' class="active"' %}
 		{% endif %}
+		{% if page_url contains link.path %}
+			{% assign active = ' class="active"' %}
+		{% endif %}
 		<li>
 			<a{{ active }} href="{{ link.path }}">{{ link.text }}</a>
 			{% if link.items != null and link.items != empty %}
