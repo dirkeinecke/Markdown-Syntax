@@ -37,3 +37,5 @@ navigation:
         path: /Syntax/Zeilenumbrueche/
       - text: Automatische Verlinkungen
         path: /Syntax/Automatische-Verlinkungen/
+      - text: Automatische Maskierung besonderer Zeichen
+        path: /Syntax/Automatische-Maskierung-besonderer-Zeichen/
