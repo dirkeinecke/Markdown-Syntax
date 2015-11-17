@@ -27,16 +27,16 @@ navigation:
     items:
       - text: Überschriften
         path: /Syntax/Ueberschriften/
+      - text: Absätze
+        path: /Syntax/Absaetze/
+      - text: Zeilenumbrüche
+        path: /Syntax/Zeilenumbrueche/
       - text: Listen
         path: /Syntax/Listen/
       - text: Zitate
         path: /Syntax/Zitate/
       - text: Horizontale Linien
         path: /Syntax/Horizontale-Linien/
-      - text: Absätze
-        path: /Syntax/Absaetze/
-      - text: Zeilenumbrüche
-        path: /Syntax/Zeilenumbrueche/
       - text: Automatische Verlinkungen
         path: /Syntax/Automatische-Verlinkungen/
       - text: Automatische Maskierung besonderer Zeichen
