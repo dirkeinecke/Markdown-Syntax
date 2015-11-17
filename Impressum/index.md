@@ -6,7 +6,9 @@ description: Markdown-Syntax - Impressum
 
 Anbieter und Verantwortlicher für den Seiteninhalt von http://markdown-syntax.de i.S.d. §§ 5, 6 TDG / § 6 MDStV:
 
-Dirk Einecke, Breite Straße 24, 76135 Karlsruhe
+Dirk Einecke  
+Breite Straße 24  
+76135 Karlsruhe  
 
 E-Mail-Adresse: dirk.einecke@gmail.com
 
