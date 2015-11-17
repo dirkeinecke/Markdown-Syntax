@@ -1,6 +1,6 @@
 ---
 title: Markdown-Syntax - Zitate
-description: 
+description: Markdown-Syntax - Zitate
 ---
 
 ## Zitate
