@@ -94,7 +94,7 @@ Sowohl bei unsortierten als auch bei sortierten/ nummerierten Listen können Sie
   Lorem ipsum dolor sit amet.
 {% endhighlight %}
 
-Durch das *Markdown*-Beispiele wird folgender HTML-Quelltext erzeugt.
+Durch das *Markdown*-Beispiel wird folgender HTML-Quelltext erzeugt.
 
 {% highlight html %}
 <ul>
@@ -119,7 +119,7 @@ Sowohl bei unsortierten als auch bei sortierten/ nummerierten Listen können Sie
 * Eintrag 3
 {% endhighlight %}
 
-Durch das *Markdown*-Beispiele wird folgender HTML-Quelltext erzeugt.
+Durch das *Markdown*-Beispiel wird folgender HTML-Quelltext erzeugt.
 
 {% highlight html %}
 <ul>
@@ -129,7 +129,7 @@ Durch das *Markdown*-Beispiele wird folgender HTML-Quelltext erzeugt.
 </ul>
 {% endhighlight %}
 
-Listeneinträge können auch aus mehreren Absätzen bestehen. Dazu muss ab dem zweiten Absatz innerhab eines Listeneintrags mit vier Leerzeichen eingerückt werden. Das folgende Beispiel zeigt dies exemplarisch.
+Listeneinträge können auch aus mehreren Absätzen bestehen. Dazu muss ab dem zweiten Absatz innerhab eines Listeneintrags mit vier Leerzeichen eingerückt werden. Dabei muss eigentlich nur die erste Zeile des Folgeabsatzes eingerückt werden. Schöner schaut es allerdings aus, wenn alle Zeilen mit der gleichen Anzahl an Leerzeichen eingerückt werden.  Das folgende Beispiel zeigt dies exemplarisch.
 
 {% highlight text %}
 *   Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
@@ -146,7 +146,22 @@ Listeneinträge können auch aus mehreren Absätzen bestehen. Dazu muss ab dem z
     Lorem ipsum dolor sit amet.
 {% endhighlight %}
 
-Durch das *Markdown*-Beispiele wird folgender HTML-Quelltext erzeugt.
+{% highlight text %}
+*   Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
+    sed diam nonumy eirmod tempor invidunt ut labore et dolore
+    magna aliquyam erat, sed diam voluptua. At vero eos et
+    accusam et justo duo dolores et ea rebum.
+
+    Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
+sed diam nonumy eirmod tempor invidunt ut labore et dolore
+magna aliquyam erat, sed diam voluptua. At vero eos et
+accusam et justo duo dolores et ea rebum.
+
+*   Stet clita kasd gubergren, no sea takimata sanctus est
+    Lorem ipsum dolor sit amet.
+{% endhighlight %}
+
+Durch beide *Markdown*-Beispiele wird folgender HTML-Quelltext erzeugt.
 
 {% highlight html %}
 <ul>
