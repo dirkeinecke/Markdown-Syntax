@@ -25,6 +25,24 @@ Durch beide *Markdown*-Beispiele wird folgender HTML-Quelltext erzeugt.
 Das ist <em>ein</em> Text.
 {% endhighlight %}
 
+Sie können diese Betonung auch innerhalb eines Wortes verwenden, so wie es das folgende Beispiel zeigt.
+
+{% highlight text %}
+Mar_kd_own
+{% endhighlight %}
+
+{% highlight text %}
+Mar*kd*own
+{% endhighlight %}
+
+Durch beide *Markdown*-Beispiele wird folgender HTML-Quelltext erzeugt.
+
+{% highlight html %}
+Mar<em>kd</em>own
+{% endhighlight %}
+
+**Achtung:** Bei GitHub kann man innerhalb eines Wortes die Betonung mit einem Unterstrich (`_`) nicht verwenden.
+
 ### Stark betont (`<strong>`)
 
 Um mit *Markdown* einen Text als __stark betont__ zu markieren, müssen Sie ihn entweder mit zwei aufeinander folgenden Sternchen (`**`) oder zwei aufeinander folgenden Unterstrriche (`_`) umschließen, so wie es die folgenden beiden Beispiel zeigen.
@@ -43,4 +61,20 @@ Durch beide *Markdown*-Beispiele wird folgender HTML-Quelltext erzeugt.
 Das ist <strong>ein</strong> Text.
 {% endhighlight %}
 
-Das*ist*ein
+Sie können diese Betonung auch innerhalb eines Wortes verwenden, so wie es das folgende Beispiel zeigt.
+
+{% highlight text %}
+Mar__kd__own
+{% endhighlight %}
+
+{% highlight text %}
+Mar**kd**own
+{% endhighlight %}
+
+Durch beide *Markdown*-Beispiele wird folgender HTML-Quelltext erzeugt.
+
+{% highlight html %}
+Mar<strong>kd</strong>own
+{% endhighlight %}
+
+**Achtung:** Bei GitHub kann man innerhalb eines Wortes die starte Betonung mit zwei Unterstrichen (`__`) nicht verwenden.
