@@ -1,11 +1,11 @@
 ---
-title: Markdown-Syntax - Horizontale Linie
-description: Markdown-Syntax - Horizontale Linie
+title: Markdown-Syntax - Horizontale Linien
+description: Markdown-Syntax - Horizontale Liniem
 ---
 
-## Horizontale Linie
+## Horizontale Linien
 
-Um mit *Markdown* eine horizontalen Linie (`<hr>`-Tag) auzugeben, schreibt man drei oder mehr Bindestriche, Unterstriche oder Sternchen in einer Zeile. In dieser Zeile dürfen sonst keine anderen Zeichen stehen. Zwischen den Zeichen dürfen bis zu zwei Leerzeichen stehen.
+Um mit *Markdown* eine horizontale Linie (`<hr>`-Tag) auzugeben, schreibt man drei oder mehr Bindestriche, Unterstriche oder Sternchen in einer Zeile. In dieser Zeile dürfen sonst keine anderen Zeichen stehen. Zwischen den Zeichen dürfen bis zu zwei Leerzeichen stehen.
 
 Der folgende Quelltext zeigt Ihnen mögliche Varianten, um eine horizontale Linie mittels *Markdown* zu erzeugen.
 
