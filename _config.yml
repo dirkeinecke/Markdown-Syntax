@@ -35,3 +35,5 @@ navigation:
         path: /Syntax/Absaetze/
       - text: Zeilenumbrüche
         path: /Syntax/Zeilenumbrueche/
+      - text: Automatische Verlinkungen
+        path: /Syntax/Automatische-Verlinkungen/
