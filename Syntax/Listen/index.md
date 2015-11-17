@@ -80,3 +80,29 @@ Durch alle drei *Markdown*-Beispiele wird folgender HTML-Quelltext erzeugt.
 <li>Eintrag 3</li>
 </ol>
 {% endhighlight %}
+
+### Einrückungen
+
+Sowohl bei unsortierten als auch bei sortierten/ nummerierten Listen können Sie für ein schöneres Textbild den Text von Listeneinträgern umbrechen und einrücken. Das folgende Beispiel zeigt dies exemplarisch.
+
+{% highlight text %}
+* Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
+  sed diam nonumy eirmod tempor invidunt ut labore et dolore
+  magna aliquyam erat, sed diam voluptua.
+* At vero eos et accusam et justo duo dolores et ea rebum.
+* Stet clita kasd gubergren, no sea takimata sanctus est
+  Lorem ipsum dolor sit amet.
+{% endhighlight %}
+
+Durch das *Markdown*-Beispiele wird folgender HTML-Quelltext erzeugt.
+
+{% highlight html %}
+<ul>
+<li>Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
+sed diam nonumy eirmod tempor invidunt ut labore et dolore
+magna aliquyam erat, sed diam voluptua.</li>
+<li>At vero eos et accusam et justo duo dolores et ea rebum.</li>
+<li>Stet clita kasd gubergren, no sea takimata sanctus est
+Lorem ipsum dolor sit amet.</li>
+</ul>
+{% endhighlight %}
