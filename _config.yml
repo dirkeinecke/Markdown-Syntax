@@ -29,3 +29,5 @@ navigation:
         path: /Syntax/Ueberschriften/
       - text: Zitate
         path: /Syntax/Zitate/
+      - text: Horizontale Linie
+        path: /Syntax/Horizontale-Linie/
