@@ -5,7 +5,7 @@ description: Markdown-Syntax - Automatische Verlinkungen
 
 ## Automatische Verlinkungen
 
-*Markdown* stellt Ihnen die automatische Verlinkung von URLs und von E-Mail-Adresse bereit.
+*Markdown* stellt Ihnen die automatische Verlinkung von URLs und von E-Mail-Adresse zur Verfügung.
 
 ### Automatische Verlinkung von URLs
 
