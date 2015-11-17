@@ -37,6 +37,8 @@ navigation:
         path: /Syntax/Zitate/
       - text: Horizontale Linien
         path: /Syntax/Horizontale-Linien/
+      - text: Betonungen
+        path: /Syntax/Betonungen/
       - text: Automatische Verlinkungen
         path: /Syntax/Automatische-Verlinkungen/
       - text: Automatische Maskierung besonderer Zeichen
