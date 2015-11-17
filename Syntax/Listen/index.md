@@ -129,7 +129,7 @@ Durch das *Markdown*-Beispiel wird folgender HTML-Quelltext erzeugt.
 </ul>
 {% endhighlight %}
 
-Listeneinträge können auch aus mehreren Absätzen bestehen. Dazu muss ab dem zweiten Absatz innerhab eines Listeneintrags mit vier Leerzeichen eingerückt werden. Dabei muss eigentlich nur die erste Zeile des Folgeabsatzes eingerückt werden. Schöner schaut es allerdings aus, wenn alle Zeilen mit der gleichen Anzahl an Leerzeichen eingerückt werden.  Das folgende Beispiel zeigt dies exemplarisch.
+Listeneinträge können auch aus mehreren Absätzen bestehen. Dazu muss ab dem zweiten Absatz innerhab eines Listeneintrags mit vier Leerzeichen eingerückt werden. Dabei muss eigentlich nur die erste Zeile des Folgeabsatzes eingerückt werden. Schöner schaut es allerdings aus, wenn alle Zeilen mit der gleichen Anzahl an Leerzeichen eingerückt werden. Das folgende Beispiel zeigt dies exemplarisch.
 
 {% highlight text %}
 *   Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
@@ -174,6 +174,51 @@ accusam et justo duo dolores et ea rebum.</p>
 sed diam nonumy eirmod tempor invidunt ut labore et dolore
 magna aliquyam erat, sed diam voluptua. At vero eos et
 accusam et justo duo dolores et ea rebum.</p></li>
+<li><p>Stet clita kasd gubergren, no sea takimata sanctus est
+Lorem ipsum dolor sit amet.</p></li>
+</ul>
+{% endhighlight %}
+
+### Zitate innerhalb eines Listeneintrags
+
+Listeneinträge können auch Zitate enthalten. Dazu muss das Zitat innerhab des Listeneintrags mit mindestens zwei Leerzeichen eingerückt werden. Dabei muss eigentlich nur die erste Zeile des Zitats eingerückt werden. Schöner schaut es allerdings aus, wenn alle Zeilen mit der gleichen Anzahl an Leerzeichen eingerückt werden.Das folgende Beispiel zeigt dies exemplarisch.
+
+{% highlight text %}
+* Eintrag 1
+
+  > Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
+  > sed diam nonumy eirmod tempor invidunt ut labore et dolore
+  > magna aliquyam erat, sed diam voluptua. At vero eos et
+  > accusam et justo duo dolores et ea rebum.
+
+* Stet clita kasd gubergren, no sea takimata sanctus est
+  Lorem ipsum dolor sit amet.
+{% endhighlight %}
+
+{% highlight text %}
+* Eintrag 1
+
+  > Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
+> sed diam nonumy eirmod tempor invidunt ut labore et dolore
+> magna aliquyam erat, sed diam voluptua. At vero eos et
+> accusam et justo duo dolores et ea rebum.
+
+* Stet clita kasd gubergren, no sea takimata sanctus est
+  Lorem ipsum dolor sit amet.
+{% endhighlight %}
+
+Durch beide *Markdown*-Beispiele wird folgender HTML-Quelltext erzeugt.
+
+{% highlight html %}
+<ul>
+<li><p>Eintrag 1</p>
+
+<blockquote>
+  <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
+sed diam nonumy eirmod tempor invidunt ut labore et dolore
+magna aliquyam erat, sed diam voluptua. At vero eos et
+accusam et justo duo dolores et ea rebum.</p>
+</blockquote></li>
 <li><p>Stet clita kasd gubergren, no sea takimata sanctus est
 Lorem ipsum dolor sit amet.</p></li>
 </ul>
