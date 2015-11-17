@@ -7,11 +7,11 @@
 		{% endif %}
 		<li>
 			<a{{ active }} href="{{ link.path }}">{{ link.text }}</a>
-			{% if link.items != null and link.items != empty %}
+			{% if page_url contains link.path and link.items != null and link.items != empty %}
 				<ul class="no-bullets">
 					{% for item_1 in link.items %}
 						{% assign active = '' %}
-						{% if page_url == item_1.path %}
+						{% if page_url contains item_1.path %}
 							{% assign active = ' class="active"' %}
 						{% endif %}
 						<li>
