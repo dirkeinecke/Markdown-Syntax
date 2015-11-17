@@ -181,7 +181,7 @@ Lorem ipsum dolor sit amet.</p></li>
 
 ### Zitate innerhalb eines Listeneintrags
 
-Listeneinträge können auch Zitate enthalten. Dazu muss das Zitat innerhab des Listeneintrags mit mindestens zwei Leerzeichen eingerückt werden. Dabei muss eigentlich nur die erste Zeile des Zitats eingerückt werden. Schöner schaut es allerdings aus, wenn alle Zeilen mit der gleichen Anzahl an Leerzeichen eingerückt werden.Das folgende Beispiel zeigt dies exemplarisch.
+Listeneinträge können auch Zitate enthalten. Dazu muss das Zitat innerhab des Listeneintrags mit mindestens zwei Leerzeichen eingerückt werden. Dabei muss eigentlich nur die erste Zeile des Zitats eingerückt werden. Schöner schaut es allerdings aus, wenn alle Zeilen mit der gleichen Anzahl an Leerzeichen eingerückt werden. Das folgende Beispiel zeigt dies exemplarisch.
 
 {% highlight text %}
 * Eintrag 1
@@ -221,5 +221,29 @@ accusam et justo duo dolores et ea rebum.</p>
 </blockquote></li>
 <li><p>Stet clita kasd gubergren, no sea takimata sanctus est
 Lorem ipsum dolor sit amet.</p></li>
+</ul>
+{% endhighlight %}
+
+### Quelltext innerhalb eines Listeneintrags
+
+Listeneinträge können auch Quelltext enthalten. Dazu muss der Quelltext innerhab des Listeneintrags mit vier Leerzeichen oder zwei Tabs eingerückt werden. Das folgende Beispiel zeigt dies exemplarisch.
+
+{% highlight text%}
+* Eintrag 1
+
+        <strong>HTML-Code</strong>
+
+* Eintrag 2
+{% endhighlight %}
+
+Durch das *Markdown*-Beispiel wird folgender HTML-Quelltext erzeugt.
+
+{% highlight html %}
+<ul>
+<li><p>Eintrag 1</p>
+
+<pre><code>&lt;strong&gt;HTML-Code&lt;/strong&gt;
+</code></pre></li>
+<li><p>Eintrag 2</p></li>
 </ul>
 {% endhighlight %}
