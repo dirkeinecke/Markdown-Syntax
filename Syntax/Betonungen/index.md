@@ -5,7 +5,7 @@ description: Markdown-Syntax - Betonungen
 
 ## Betonungen
 
-Mit *Markdown* können Sie Text als _betont_ (englisch _emphasized_, `<em>`-Tag) und als __stark betont__ (englisch __strong emphasized__, `<strong>`-Tag) kennzeichnen.
+Mit *Markdown* können Sie Text als "betont" (englisch "emphasized", `<em>`-Tag) und als "stark betont" (englisch "strong emphasized", `<strong>`-Tag) kennzeichnen.
 
 ### Betont (`<em>`)
 
