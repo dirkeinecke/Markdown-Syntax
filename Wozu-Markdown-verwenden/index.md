@@ -11,4 +11,4 @@ Es gibt bereits einige Content Management Systeme bzw. Blogsysteme, die von Haus
 
 Neben den genannten CMS ist die Eingabe von Texten mittels Markdown auch bei einer Vielzahl von bekannten Webdiensten wie [StackOverflow](http://stackoverflow.com){:target="_blank"}, [GitHub](https://github.com){:target="_blank"}, [Trello](https://trello.com){:target="_blank"} oder [reddit](https://www.reddit.com){:target="_blank"} möglich.
 
-An dieser hohen Verbreitung sieht man, dass es sich bei der Auszeichnungssprache nicht um eine kleine Randerscheinung handelt, sondern *Markdown* sich im Internet bereits fest verwurzelt hat und Bestandteil vieler Systeme ist.
+An dieser hohen Verbreitung sehen Sie, dass es sich bei der Auszeichnungssprache nicht um eine kleine Randerscheinung handelt, sondern *Markdown* sich im Internet bereits fest verwurzelt hat und Bestandteil vieler Systeme ist.
