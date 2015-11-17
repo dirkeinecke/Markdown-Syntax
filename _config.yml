@@ -33,3 +33,5 @@ navigation:
         path: /Syntax/Horizontale-Linien/
       - text: Absätze
         path: /Syntax/Absaetze/
+      - text: Zeilenumbrüche
+        path: /Syntax/Zeilenumbrüche/
