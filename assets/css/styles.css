@@ -62,6 +62,7 @@ footer p {
     padding: 0.4rem 0 0.4rem 0;
     margin-right: 0.8rem;
     border-bottom: thin solid #dfdfdf;
+    line-height: 140%;
 }
 
 .sidebar ul li ul li {
