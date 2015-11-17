@@ -129,7 +129,7 @@ Durch das *Markdown*-Beispiele wird folgender HTML-Quelltext erzeugt.
 </ul>
 {% endhighlight %}
 
-Listeneinträge können auch aus mehreren Absätzen bestehen. Dazu muss ab dem zweiten Absatz innerhab eines Listeeintrags mit vier Leerzeichen eingerückt werden. Das folgende Beispiel zeigt dies exemplarisch.
+Listeneinträge können auch aus mehreren Absätzen bestehen. Dazu muss ab dem zweiten Absatz innerhab eines Listeneintrags mit vier Leerzeichen eingerückt werden. Das folgende Beispiel zeigt dies exemplarisch.
 
 {% highlight text %}
 *   Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
