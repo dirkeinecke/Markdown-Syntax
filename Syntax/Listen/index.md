@@ -19,7 +19,7 @@ Die folgenden *Markdown*-Beispiele sind also, was den daraus erzeugten HTML-Quel
 * Eintrag 3
 {% endhighlight %}
 
-{% highlight text %}
+{% highlight text %}  
   * Eintrag 1
   * Eintrag 2
   * Eintrag 3
