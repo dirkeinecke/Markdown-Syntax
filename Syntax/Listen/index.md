@@ -247,3 +247,31 @@ Durch das *Markdown*-Beispiel wird folgender HTML-Quelltext erzeugt.
 <li><p>Eintrag 2</p></li>
 </ul>
 {% endhighlight %}
+
+### Unbeabsichtigte Listen
+
+Es kann auch vorkommen, dass man unbeabsichtigt eine Liste erstellt. Dies kann vorkommen, wenn man am Zeilenanfang eine beliebige Zahl hat, der ein Punkt folgt - so weie es das folgende Beispiel zeigt.
+
+{% highlight text %}
+2015. Das ist Text
+{% endhighlight %}
+
+Dieses *Markdown*-Beispiel würde normalerweise den folgenden HTML-Quelltext erzeugen.
+
+{% highlight html %}
+<ol>
+<li>Das ist Text</li>
+</ol>
+{% endhighlight %}
+
+Wenn Sie an dieser Stelle keine Liste automatisch erzeugen lassen möchten, dann müssen Sie dem Punkt nach der Zahl ein `\`-Zeichen (Backslash) voranstellen. Das folgende Beispiel zeigt dies.
+
+{% highlight text %}
+2015\. Das ist Text
+{% endhighlight %}
+
+Durch das *Markdown*-Beispiel wird folgender HTML-Quelltext erzeugt.
+
+{% highlight html %}
+<p>2015. Das ist Text</p>
+{% endhighlight %}
