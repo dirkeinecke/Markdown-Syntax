@@ -27,6 +27,8 @@ navigation:
     items:
       - text: Überschriften
         path: /Syntax/Ueberschriften/
+      - text: Listen
+        path: /syntax/Listen/
       - text: Zitate
         path: /Syntax/Zitate/
       - text: Horizontale Linien
