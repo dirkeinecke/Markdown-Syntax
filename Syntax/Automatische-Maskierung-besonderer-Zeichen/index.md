@@ -5,7 +5,7 @@ description: Markdown-Syntax - Automatische Maskierung besonderer Zeichen
 
 ## Automatische Maskierung besonderer Zeichen
 
-In HTML kommt zwei Zeichen eine besondere Bedeutung zu: Die öffnene Spitze Klammer (`<`) und das &-Zeichen. Wenn man diese beiden Zeichen in einem Text verwenden möchte, dann müssen sie maskiert (in Entities umgewandelt) werden. Da dies aber immer wieder zu Fehlern führt und die erzeugten HTML-Seiten dann nicht mehr valid sind, greift dem Schreiber an dieser Stelle *Markdown* unter die Arme und erledigt die Maskierung ganz automatisch.
+In HTML kommt zwei Zeichen eine besondere Bedeutung zu: Die öffnene spitze Klammer (`<`) und das &-Zeichen. Wenn man diese beiden Zeichen in einem Text verwenden möchte, dann müssen sie maskiert (in Entities umgewandelt) werden. Da dies aber immer wieder zu Fehlern führt und die erzeugten HTML-Seiten dann nicht mehr valid sind, greift dem Schreiber an dieser Stelle *Markdown* unter die Arme und erledigt die Maskierung ganz automatisch.
 
 ### `<`
 
