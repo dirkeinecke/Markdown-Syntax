@@ -5,7 +5,7 @@ description: Markdown-Syntax - Bilder
 
 ## Bilder
 
-*Markdown* besitzt zwei Arten um Bilder einzubinden. Zum einen "Inline" und zum anderen per "Referenz". Im Folgenden werden Ihnen beide Arten beschrieben und mit Beispielen veranschaulicht.
+*Markdown* besitzt zwei Arten um Bilder einzubinden. Zum einen "Inline" und zum anderen per "Referenz". Im Folgenden werden Ihnen beide Arten beschrieben und mit Beispielen veranschaulicht. Die Angabe der Größe (Höhe & Breite) eines Bildes ist mit *Markdown* nicht möglich.
 
 ### Inline
 
