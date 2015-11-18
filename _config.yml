@@ -14,38 +14,3 @@ defaults:
     values:
       layout: default
       author: Dirk Einecke
-
-navigation:
-  - text: Was ist Markdown?
-    path: /Was-ist-Markdown/
-  - text: Wozu Markdown verwenden?
-    path: /Wozu-Markdown-verwenden/
-  - text: Markdown-Implementierungen
-    path: /Markdown-Implementierungen/
-  - text: Syntax
-    path: /Syntax/
-    items:
-      - text: Überschriften
-        path: /Syntax/Ueberschriften/
-      - text: Absätze
-        path: /Syntax/Absaetze/
-      - text: Zeilenumbrüche
-        path: /Syntax/Zeilenumbrueche/
-      - text: Listen
-        path: /Syntax/Listen/
-      - text: Zitate
-        path: /Syntax/Zitate/
-      - text: Horizontale Linien
-        path: /Syntax/Horizontale-Linien/
-      - text: Betonungen
-        path: /Syntax/Betonungen/
-      - text: Bilder
-        path: /Syntax/Bilder/
-      - text: Quelltext
-        path: /Syntax/Quelltext/
-      - text: Quelltext-Blöcke
-        path: /Syntax/Quelltext-Bloecke/
-      - text: Automatische Verlinkungen
-        path: /Syntax/Automatische-Verlinkungen/
-      - text: Automatische Maskierung besonderer Zeichen
-        path: /Syntax/Automatische-Maskierung-besonderer-Zeichen/
