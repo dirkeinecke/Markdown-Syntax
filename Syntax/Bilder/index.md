@@ -35,7 +35,7 @@ Durch dieses *Markdown*-Beispiele wird folgender HTML-Quelltext erzeugt.
 
 ### Referenz
 
-Um mit *Markdown* ein Bild per Referenz einzubinden, müssen Sie zunächst diese Referenz definieren. Dabei wird der Referenz zunächst in eckigen Klammern (`[`, `]`) eine ID (ein Name) gegeben. Danach folgt ein Doppelpunkt (`:`) und dann der Pfad bzw. URL des Bildes. Der optionale Titel kann am Ende getrennt mit einem Leerzeichen und umschlossen von Anführungszeichen angegeben werden. Das folgende Beispiel zeigt die vollständige *Markdown*-Syntax zur Definition einer Bildreferenz.
+Um mit *Markdown* ein Bild per Referenz einzubinden, müssen Sie als erstes diese Referenz definieren. Dabei wird der Referenz zunächst in eckigen Klammern (`[`, `]`) eine ID (ein Name) gegeben. Danach folgt ein Doppelpunkt (`:`) und dann der Pfad bzw. URL des Bildes. Der optionale Titel kann am Ende getrennt mit einem Leerzeichen und umschlossen von Anführungszeichen angegeben werden. Das folgende Beispiel zeigt die vollständige *Markdown*-Syntax zur Definition einer Bildreferenz.
 
 {% highlight text %}
 [Bild 1]: Pfad/zum/Bild.jpg  "Optionaler Titel"
