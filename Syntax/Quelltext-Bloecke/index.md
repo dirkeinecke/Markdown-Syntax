@@ -22,7 +22,7 @@ Durch dieses *Markdown*-Beispiele wird folgender HTML-Quelltext erzeugt.
 </code></pre>
 {% endhighlight %}
 
-Wenn Sie innerhakb des Quelltext-Blocks weitere Einrückungen vornehmen, dann wird bei der Umwandlung zu HTML jeweils eine Einrückungsebene (vier Leerzeichen oder ein Tab) entfernt. Das folgende Beispiel zeigt dies.
+Wenn Sie innerhalb des Quelltext-Blocks weitere Einrückungen vornehmen, dann wird bei der Umwandlung zu HTML jeweils eine Einrückungsebene (vier Leerzeichen oder ein Tab) entfernt. Das folgende Beispiel zeigt dies.
 
 {% highlight text %}
 Das ist ein normaler Absatz.
