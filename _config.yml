@@ -43,6 +43,8 @@ navigation:
         path: /Syntax/Bilder/
       - text: Quelltext
         path: /Syntax/Quelltext/
+      - text: Quelltext-Blöcke
+        path: /Syntax/Quelltext-Bloecke/
       - text: Automatische Verlinkungen
         path: /Syntax/Automatische-Verlinkungen/
       - text: Automatische Maskierung besonderer Zeichen
