@@ -17,7 +17,7 @@ Durch dieses *Markdown*-Beispiele wird folgender HTML-Quelltext erzeugt.
 <p>Verwenden Sie die <code>echo</code>-Funktion.</p>
 {% endhighlight %}
 
-Wenn Sie innerhalb des Textes des Backtick-Zeichen (`` ` ``) selbst als Quelltext ausgeben möchten, dann umschließen Sie es mit doppelten Backtick-Zeichen. Das folgende Beispiel zeigt dies.
+Wenn Sie innerhalb des Textes das Backtick-Zeichen (`` ` ``) selbst als Quelltext ausgeben möchten, dann umschließen Sie es mit doppelten Backtick-Zeichen. Das folgende Beispiel zeigt dies.
 
 {% highlight text %}
 ``Verwenden Sie das Backtick-Zeichen (`)``.
