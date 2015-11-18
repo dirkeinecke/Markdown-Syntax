@@ -43,7 +43,7 @@ Durch dieses *Markdown*-Beispiele wird folgender HTML-Quelltext erzeugt.
 
 ### Automatische Zeichenumwandlung
 
-Innerhalb der Backtick-Zeichen (`` ` ``) werden spitze Klammern (`<`, `>`) und das `&`-Zeichen zu ihren HTML-Entities kodiert. dadurch können Sie zum Beispiel sehr bequem HTML-Quelltext innerhab eines Textes notieren, so wie es das folgende Beispiel zeigt.
+Innerhalb der Backtick-Zeichen (`` ` ``) werden spitze Klammern (`<`, `>`) und das `&`-Zeichen zu ihren HTML-Entities kodiert. Dadurch können Sie zum Beispiel sehr bequem HTML-Quelltext innerhab eines Textes notieren, so wie es das folgende Beispiel zeigt.
 
 {% highlight text %}
 Das `<html>`-Tag leite ein Dokument ein.
