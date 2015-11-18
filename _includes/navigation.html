@@ -1,6 +1,6 @@
 {% assign page_url = page.url | remove: 'index.html' %}
 <ul class="no-bullets">
-	{% for link in site.navigation %}
+	{% for link in site.data.navigation %}
 		{% assign active = '' %}
 		{% if page_url contains link.path %}
 			{% assign active = ' class="active"' %}
