@@ -51,7 +51,7 @@ Durch dieses *Markdown*-Beispiele wird folgender HTML-Quelltext erzeugt.
 </code></pre>
 {% endhighlight %}
 
-Ein Quelltext-Block endet entweder bei der ersten Zeile, die nicht mehr eingerückt ist oder (wenn der Quelltext-Block am Ende des Dokuments steht) am Ende des Dokuments. Das folgende Beispiel zeigt dies.
+Ein Quelltext-Block endet entweder bei der ersten Zeile, die nicht mehr eingerückt ist oder, wenn der Quelltext-Block am Ende des Dokuments steht, am Ende des Dokuments. Das folgende Beispiel zeigt dies.
 
 {% highlight text %}
 Das ist der erste Absatz.
