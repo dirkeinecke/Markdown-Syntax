@@ -47,7 +47,7 @@ Diese Definition einer Bildreferenz allein bewirkt noch keine Ausgabe. Für die 
 ![Alt-Text][Bild 1]
 {% endhighlight %}
 
-Wie Sie sehen, ist dies sehr ähnlich der bereits weiter oben gezeigten Inline-Syntax. Notieren Sie am Anfang wieder ein Ausrufezeichen (`!`). In den darauf folgenden ersten Paar eckigen Klammern (`[`, `]`) wird der Wert des `alt`-Attributs angegeben. Danach folgt ein zweites Paar eckigerKlammern (`[`, `]`). Diese umschließen den Namen der zuvor definierten Bildreferenz.
+Wie Sie sehen, ist dies sehr ähnlich der bereits weiter oben gezeigten Inline-Syntax. Notieren Sie am Anfang wieder ein Ausrufezeichen (`!`). In den darauf folgenden ersten Paar eckigen Klammern (`[`, `]`) wird der Wert des `alt`-Attributs angegeben. Danach folgt ein zweites Paar eckiger Klammern (`[`, `]`). Diese umschließen den Namen der zuvor definierten Bildreferenz.
 
 Das folgenden *Markdown*-Beispiel zeigt noch einmal Referenzdefinition und Bildausgabe zusammen.
 
