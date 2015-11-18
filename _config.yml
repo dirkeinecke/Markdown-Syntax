@@ -41,6 +41,8 @@ navigation:
         path: /Syntax/Betonungen/
       - text: Bilder
         path: /Syntax/Bilder/
+      - text: Quelltext
+        path: /Syntax/Quelltext/
       - text: Automatische Verlinkungen
         path: /Syntax/Automatische-Verlinkungen/
       - text: Automatische Maskierung besonderer Zeichen
