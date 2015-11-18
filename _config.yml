@@ -39,6 +39,8 @@ navigation:
         path: /Syntax/Horizontale-Linien/
       - text: Betonungen
         path: /Syntax/Betonungen/
+      - text: Bilder
+        path: /Syntax/Bilder/
       - text: Automatische Verlinkungen
         path: /Syntax/Automatische-Verlinkungen/
       - text: Automatische Maskierung besonderer Zeichen
