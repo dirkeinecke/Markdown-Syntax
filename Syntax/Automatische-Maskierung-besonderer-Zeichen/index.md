@@ -1,6 +1,6 @@
 ---
 title: Markdown-Syntax - Automatische Maskierung besonderer Zeichen
-description: Markdown-Syntax - Automatische Maskierung besonderer Zeichen
+description: Auf dieser Seite wird Ihnen erklärt, wie und warum Markdown bestimmte Zeichen automatisch umwandelt.
 ---
 
 ## Automatische Maskierung besonderer Zeichen
