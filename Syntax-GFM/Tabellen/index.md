@@ -1,6 +1,6 @@
 ---
 title: Markdown-Syntax - Tabellen (GitHub Flavored Markdown)
-description: Markdown-Syntax - Tabellen (GitHub Flavored Markdown)
+description: Diese Seite zeigt Ihnen, wie Sie mit 'GitHub Flavored Markdown' (kurz 'GFM') Tabellen erstellen.
 ---
 
 ## Tabellen
