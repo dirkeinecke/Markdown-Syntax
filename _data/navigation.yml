@@ -36,5 +36,7 @@
   items:
     - text: Tabellen
       path: /Syntax-GFM/Tabellen/
+    - text: Durchgestrichener Text
+      path: /Syntax-GFM/Durchgestrichener-Text/
     - text: Automatische Verlinkungen
       path: /Syntax-GFM/Automatische-Verlinkungen/
