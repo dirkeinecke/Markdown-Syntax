@@ -10,5 +10,8 @@ GitHub hat unter dem Begriff "GitHub Flavored Markdown" (kurz *GFM*) die Standar
 * [Tabellen](Tabellen/)  
   Funktioniert direkt auf der GitHub-Seite und auch auf GitHub-Pages.
 
+* [Durchgestrichener Text](Durchgestrichener-Text/)
+  Funktioniert direkt auf der GitHub-Seite, nicht aber auf GitHub-Pages.
+
 * [Automatische Verlinkungen](Automatische-Verlinkungen/)  
   Funktioniert direkt auf der GitHub-Seite, nicht aber auf GitHub-Pages.
