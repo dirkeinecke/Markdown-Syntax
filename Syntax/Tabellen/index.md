@@ -111,3 +111,17 @@ Hier sehen Sie den HTML-Quelltext, der aus dem vorherigen Markdown-Beispiel erze
   </tbody>
 </table>
 {% endhighlight %}
+
+Innerhalb einer Tabelle kann man wiederum auch Standard-*Markdown* und *GFM* verwenden. Im folgenden Beispiel wird Text als betont (`*`), stark betont (`**`) und durchgetsrichen (`~`) markiert.
+
+{% highlight text %}
+Spalte 1 | Spalte 2   | Spalte 3
+-------- | ---------- | --------
+*Inhalt* | **Inhalt** | ~Inhalt~
+Inhalt   | Inhalt     | Inhalt
+{% endhighlight %}
+
+Spalte 1 | Spalte 2   | Spalte 3
+-------- | ---------- | --------
+*Inhalt* | **Inhalt** | ~Inhalt~
+Inhalt   | Inhalt     | Inhalt
