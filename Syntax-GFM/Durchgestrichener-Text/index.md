@@ -1,6 +1,6 @@
 ---
 title: Markdown-Syntax - Durchgestrichener Text (GitHub Flavored Markdown)
-description: Markdown-Syntax - Durchgestrichener Text (GitHub Flavored Markdown)
+description: Diese Seite zeigt Ihnen, wie man mit 'GitHub Flavored Markdown' (kurz 'GFM') Text als 'durchgestrichen' kennzeichnet.
 ---
 
 ## Durchgestrichener Text
