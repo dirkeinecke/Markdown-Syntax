@@ -1,6 +1,6 @@
 ---
 title: Markdown-Syntax - Zitate
-description: Markdown-Syntax - Zitate
+description: Auf dieser Seite wird Ihnen gezeigt, wie Sie mit Markdown Zitate kennzeichnen.
 ---
 
 ## Zitate
