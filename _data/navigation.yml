@@ -36,3 +36,5 @@
   items:
     - text: Tabellen
       path: /Syntax-GFM/Tabellen/
+    - text: Automatische Verlinkungen
+      path: /Syntax-GFM/Automatische-Verlinkungen/
