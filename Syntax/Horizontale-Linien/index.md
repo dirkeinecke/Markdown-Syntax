@@ -1,6 +1,6 @@
 ---
 title: Markdown-Syntax - Horizontale Linien
-description: Markdown-Syntax - Horizontale Liniem
+description: Auf dieser Seite wird Ihnen gezeigt, wie Sie mit Markdown horizontale Linien erzeugen.
 ---
 
 ## Horizontale Linien
