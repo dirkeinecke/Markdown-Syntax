@@ -1,6 +1,6 @@
 ---
 title: Markdown-Syntax - GitHub Flavored Markdown
-description: Markdown-Syntax - GitHub Flavored Markdown
+description: Diese Seite zeigt Ihnen die Markdown-Erweiterungen, die GitHub unter dem Begriff 'GitHub Flavored Markdown' (kurz 'GFM') vorgenommen hat.
 ---
 
 ## GitHub Flavored Markdown
