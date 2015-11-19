@@ -114,6 +114,8 @@ Hier sehen Sie den HTML-Quelltext, der aus dem vorherigen Markdown-Beispiel erze
 
 Innerhalb einer Tabelle kann man wiederum auch Standard-*Markdown* und *GFM* verwenden. Im folgenden Beispiel wird Text als betont (`*`), stark betont (`**`) und durchgetsrichen (`~`) markiert.
 
+~~TEST~~
+
 {% highlight text %}
 Spalte 1 | Spalte 2   | Spalte 3
 -------- | ---------- | ----------
