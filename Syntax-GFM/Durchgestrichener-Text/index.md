@@ -13,7 +13,7 @@ Die Textauszeichnung für durchgestrichenen Text von *GFM* funktioniert nur dire
 Für diese Textauszeichnung wird bei *GFM* der Text mit einer zweifachen Tilde (`~~`) umschlossen. Das folgende Beispiel zeigt dies.
 
 {% highlight text %}
-Das ist ~~kein~~ein Text.
+Das ist ~~kein~~ ein Text.
 {% endhighlight %}
 
 Hier sehen Sie den HTML-Quelltext, der aus dem vorherigen *GFM*-Beispiel erzeugt wird.
