@@ -16,7 +16,7 @@ Inhalt   | Inhalt   | Inhalt
 Inhalt   | Inhalt   | Inhalt
 {% endhighlight %}
 
-Hier sehen Sie den HTML-Quelltext, der aus dem vorherigen Markdown-Beispiel erzeugt wird.
+Hier sehen Sie den HTML-Quelltext, der aus dem vorherigen *GFM*-Beispiel erzeugt wird.
 
 {% highlight html %}
 <table>
@@ -51,7 +51,7 @@ Hier sehen Sie den HTML-Quelltext, der aus dem vorherigen Markdown-Beispiel erze
 | Inhalt   | Inhalt   | Inhalt   |
 {% endhighlight %}
 
-Hier sehen Sie den HTML-Quelltext, der aus dem vorherigen Markdown-Beispiel erzeugt wird. Und wie Sie sehen, haben die zusätzlichen Pipes (`|`) am Anfang und am Ende jeder Zeile keinerlei Auswirkung auf den daraus erzeugten HTML-Quelltext.
+Hier sehen Sie den HTML-Quelltext, der aus dem vorherigen *GFM*-Beispiel erzeugt wird. Und wie Sie sehen, haben die zusätzlichen Pipes (`|`) am Anfang und am Ende jeder Zeile keinerlei Auswirkung auf den daraus erzeugten HTML-Quelltext.
 
 {% highlight html %}
 <table>
@@ -86,7 +86,7 @@ Wie Sie gesehen haben, habe ich bei den *GFM*-Beispielen die Spalten in jeder Ze
 | Inhalt | Inhalt | Inhalt |
 {% endhighlight %}
 
-Hier sehen Sie den HTML-Quelltext, der aus dem vorherigen Markdown-Beispiel erzeugt wird.
+Hier sehen Sie den HTML-Quelltext, der aus dem vorherigen *GFM*-Beispiel erzeugt wird.
 
 {% highlight html %}
 <table>
@@ -112,9 +112,7 @@ Hier sehen Sie den HTML-Quelltext, der aus dem vorherigen Markdown-Beispiel erze
 </table>
 {% endhighlight %}
 
-Innerhalb einer Tabelle kann man wiederum auch Standard-*Markdown* und *GFM* verwenden. Im folgenden Beispiel wird Text als betont (`*`), stark betont (`**`) und durchgetsrichen (`~`) markiert.
-
-~~TEST~~
+Innerhalb einer Tabelle kann man wiederum auch Standard-*Markdown* und *GFM* verwenden. Im folgenden Beispiel wird Text als betont (`*`), stark betont (`**`) und durchgetsrichen (`~~`) markiert.
 
 {% highlight text %}
 Spalte 1 | Spalte 2   | Spalte 3
@@ -123,7 +121,42 @@ Spalte 1 | Spalte 2   | Spalte 3
 Inhalt   | Inhalt     | Inhalt
 {% endhighlight %}
 
-Spalte 1 | Spalte 2   | Spalte 3
--------- | ---------- | ----------
-*Inhalt* | **Inhalt** | ~~Inhalt~~
-Inhalt   | Inhalt     | Inhalt
+Hier sehen Sie den HTML-Quelltext, der aus dem vorherigen *Markdown*/*GFM*-Beispiel erzeugt wird.
+
+{% highlight html %}
+<table>
+  <thead>
+    <tr>
+      <th>Spalte 1</th>
+      <th>Spalte 2</th>
+      <th>Spalte 3</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><em>Inhalt</em></td>
+      <td><strong>Inhalt</strong></td>
+      <td><del>Inhalt</del></td>
+    </tr>
+    <tr>
+      <td>Inhalt</td>
+      <td>Inhalt</td>
+      <td>Inhalt</td>
+    </tr>
+  </tbody>
+</table>
+{% endhighlight %}
+
+*GFM* bietet Ihnen zusätzlich die Möglichkeit, Text innerhalb einer Spalte nach links, mittig oder nach rechts auszurichten. 
+
+{% highlight text %}
+| Links ausgerichtet | Mittig ausgerichtet | Rechts ausgerichtet |
+|:------------------ |:-------------------:| -------------------:|
+| Inhalt             | Inhalt              | Inhalt              |
+| Inhalt             | Inhalt              | Inhalt              |
+{% endhighlight %}
+
+| Links ausgerichtet | Mittig ausgerichtet | Rechts ausgerichtet |
+|:------------------ |:-------------------:| -------------------:|
+| Inhalt             | Inhalt              | Inhalt              |
+| Inhalt             | Inhalt              | Inhalt              |
