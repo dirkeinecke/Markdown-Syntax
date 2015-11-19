@@ -51,9 +51,44 @@ Hier sehen Sie den HTML-Quelltext, der aus dem vorherigen Markdown-Beispiel erze
 | Inhalt   | Inhalt   | Inhalt   |
 {% endhighlight %}
 
+Hier sehen Sie den HTML-Quelltext, der aus dem vorherigen Markdown-Beispiel erzeugt wird. Und wie Sie sehen, haben die zusätzlichen Pipes (`|`) am Anfang und am Ende jeder Zeile keinerlei Auswirkung auf den daraus erzeugten HTML-Quelltext.
+
+{% highlight html %}
+<table>
+  <thead>
+    <tr>
+      <th>Spalte 1</th>
+      <th>Spalte 2</th>
+      <th>Spalte 3</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Inhalt</td>
+      <td>Inhalt</td>
+      <td>Inhalt</td>
+    </tr>
+    <tr>
+      <td>Inhalt</td>
+      <td>Inhalt</td>
+      <td>Inhalt</td>
+    </tr>
+  </tbody>
+</table>
+{% endhighlight %}
+
+Wie Sie gesehen haben, habe ich bei den *GFM*-Beispielen die Spalten in jeder Zeile immer schön exakt gleich lang gemacht. Das hat allerdings rein ästhetische Gründe und dient der besseren Lesbarkeit der Tabelle im Rohzustand. Beim Bearbeiten der Tabelle sind Sie also nicht gezwungen, die Spalten in jeder Zeile exakt jedentisch lang zu machen. Das folgende Beispiel zeigt dies.
+
+{% highlight text %}
+| Spalte 1 | Das ist Spalte 2 | Und hier ist Spalte 3 |
+| -------- | -------- | -------- |
+| Inhalt | Das ist ein ganz langer Inhalt. | Auch hier steht ein langer Text. |
+| Inhalt | Inhalt | Inhalt |
+{% endhighlight %}
+
 Hier sehen Sie den HTML-Quelltext, der aus dem vorherigen Markdown-Beispiel erzeugt wird.
 
-| Spalte 1 | Spalte 2 | Spalte 3 |
+| Spalte 1 | Das ist Spalte 2 | Und hier ist Spalte 3 |
 | -------- | -------- | -------- |
-| Inhalt   | Inhalt   | Inhalt   |
-| Inhalt   | Inhalt   | Inhalt   |
+| Inhalt | Das ist ein ganz langer Inhalt. | Auch hier steht ein langer Text. |
+| Inhalt | Inhalt | Inhalt |
