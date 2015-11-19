@@ -1,6 +1,6 @@
 ---
 title: Markdown-Syntax
-description: Markdown-Syntax
+description: In diesem Kapitel lernen Sie die Syntax von Markdown kennen.
 ---
 
 ## Syntax
