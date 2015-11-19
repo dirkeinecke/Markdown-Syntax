@@ -31,3 +31,8 @@
       path: /Syntax/Automatische-Verlinkungen/
     - text: Automatische Maskierung besonderer Zeichen
       path: /Syntax/Automatische-Maskierung-besonderer-Zeichen/
+- text: Syntax (GitHub Flavored Markdown)
+  path: /Syntax-GFM/
+  items:
+    - text: Tabellen
+      path: /Syntax-GFM/Tabellen/
