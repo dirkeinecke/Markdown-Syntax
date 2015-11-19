@@ -1,6 +1,6 @@
 ---
 title: Markdown-Syntax - Bilder
-description: Markdown-Syntax - Bilder
+description: Auf dieser Seite wird Ihnen gezeigt, wie Sie mit Markdown Bilder in Ihren Text einbinden.
 ---
 
 ## Bilder
