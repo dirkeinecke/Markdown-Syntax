@@ -37,4 +37,9 @@ Dieser HTML-Quelltext zeigt Ihnen, was aus dem vorherigen Markdown-Beispiel gene
 
 Wie Sie sehen, wird bei der Erzeugung des HTML-Quelltextes per Zufallsprinzip die E-Mail-Adresse in dezimale und hexadezimale Entity-Kodierungen umgewandelt. Dies hat den Grund, dass es Spam-Bots erschwert werden soll, die E-Mail-Adrese zu erkennen. So werden zwar nicht alle Spam-Bots ausgetrickst, aber ein kleiner Schutz ist besser als gar kein Schutz.
 
-Der Besucher der Website bemerkt von dieser Umwandlung nichts. Im Browser wird die E-Mail-Adresse ganz normal als klickbarer Link dargestellt.
+Der Besucher der Website bemerkt von dieser Umwandlung nichts. Im Browser wird die E-Mail-Adresse ganz normal als klickbarer Link 
+dargestellt.
+
+### Siehe auch
+
+* [GitHub Flavored Markdown > Automatische Verlinkungen](/Syntax-GFM/Automatische-Verlinkungen/)
