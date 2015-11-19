@@ -88,7 +88,26 @@ Wie Sie gesehen haben, habe ich bei den *GFM*-Beispielen die Spalten in jeder Ze
 
 Hier sehen Sie den HTML-Quelltext, der aus dem vorherigen Markdown-Beispiel erzeugt wird.
 
-| Spalte 1 | Das ist Spalte 2 | Und hier ist Spalte 3 |
-| -------- | -------- | -------- |
-| Inhalt | Das ist ein ganz langer Inhalt. | Auch hier steht ein langer Text. |
-| Inhalt | Inhalt | Inhalt |
+{% highlight html %}
+<table>
+  <thead>
+    <tr>
+      <th>Spalte 1</th>
+      <th>Das ist Spalte 2</th>
+      <th>Und hier ist Spalte 3</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Inhalt</td>
+      <td>Das ist ein ganz langer Inhalt.</td>
+      <td>Auch hier steht ein langer Text.</td>
+    </tr>
+    <tr>
+      <td>Inhalt</td>
+      <td>Inhalt</td>
+      <td>Inhalt</td>
+    </tr>
+  </tbody>
+</table>
+{% endhighlight %}
