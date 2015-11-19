@@ -1,6 +1,6 @@
 ---
 title: Markdown-Implementierungen
-description: Markdown-Implementierungen
+description: Diese Seite listet Markdown-Implementierungen in verschiedenen Programmiersprachen auf.
 ---
 
 ## *Markdown*-Implementierungen
