@@ -18,8 +18,6 @@ Das ist ~~kein~~ein Text.
 
 Hier sehen Sie den HTML-Quelltext, der aus dem vorherigen *GFM*-Beispiel erzeugt wird.
 
-Das ist ~~kein~~ ein Text.
-
 {% highlight html %}
-Das ist ~~kein~~ein Text.
+Das ist <del>kein</del> ein Text.
 {% endhighlight %}
