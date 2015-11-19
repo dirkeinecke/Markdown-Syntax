@@ -1,6 +1,6 @@
 ---
 title: Markdown-Syntax - Quelltext
-description: Markdown-Syntax - Quelltext
+description: Auf dieser Seite wird Ihnen gezeigt, wie Sie mit Markdown innerhalb Ihres Textes bestimmte Teile als Quelltext kennzeichnen.
 ---
 
 ## Quelltext
