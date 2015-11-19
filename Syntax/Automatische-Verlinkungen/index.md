@@ -1,6 +1,6 @@
 ---
 title: Markdown-Syntax - Automatische Verlinkungen
-description: Markdown-Syntax - Automatische Verlinkungen
+description: Diese Seite zeigt Ihnen, wie Sie mit Markdown URLs und E-Mail-Adressen automatisch verlinken lassen.
 ---
 
 ## Automatische Verlinkungen
