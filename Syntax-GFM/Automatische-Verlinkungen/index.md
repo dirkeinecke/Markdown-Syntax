@@ -1,6 +1,6 @@
 ---
 title: Markdown-Syntax - Automatische Verlinkungen (GitHub Flavored Markdown)
-description: Markdown-Syntax - Automatische Verlinkungen (GitHub Flavored Markdown)
+description: Diese Seite zeigt Ihnen die vereinfachte automatische Verlinkung von URLs, die GitHub mit 'GitHub Flavored Markdown' (kurz 'GFM') bereitstellt.
 ---
 
 ## Automatische Verlinkungen
