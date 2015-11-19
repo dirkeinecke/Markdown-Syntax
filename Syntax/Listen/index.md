@@ -1,6 +1,6 @@
 ---
 title: Markdown-Syntax - Listen
-description: Markdown-Syntax - Listen
+description: Auf dieser Seite wird Ihnen gezeigt, wie Sie mit Markdown unsortierten und sortierten/ nummerierten Listen anlegen.
 ---
 
 ## Listen
