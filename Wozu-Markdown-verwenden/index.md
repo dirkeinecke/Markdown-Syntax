@@ -1,6 +1,6 @@
 ---
-title: Markdown-Syntax
-description: Markdown-Syntax
+title: Wozu Markdown verwenden?
+description: Auf dieser Seite erfahren Sie, wozu Markdown entwicklet wurde und was Sie damit machen können.
 ---
 
 ## Wozu *Markdown* verwenden?
