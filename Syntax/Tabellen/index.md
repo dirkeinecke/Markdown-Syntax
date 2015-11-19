@@ -116,12 +116,12 @@ Innerhalb einer Tabelle kann man wiederum auch Standard-*Markdown* und *GFM* ver
 
 {% highlight text %}
 Spalte 1 | Spalte 2   | Spalte 3
--------- | ---------- | --------
-*Inhalt* | **Inhalt** | ~Inhalt~
+-------- | ---------- | ----------
+*Inhalt* | **Inhalt** | ~~Inhalt~~
 Inhalt   | Inhalt     | Inhalt
 {% endhighlight %}
 
 Spalte 1 | Spalte 2   | Spalte 3
--------- | ---------- | --------
-*Inhalt* | **Inhalt** | ~Inhalt~
+-------- | ---------- | ----------
+*Inhalt* | **Inhalt** | ~~Inhalt~~
 Inhalt   | Inhalt     | Inhalt
