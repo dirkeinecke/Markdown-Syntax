@@ -147,7 +147,7 @@ Hier sehen Sie den HTML-Quelltext, der aus dem vorherigen *Markdown*/*GFM*-Beisp
 </table>
 {% endhighlight %}
 
-*GFM* bietet Ihnen zusätzlich die Möglichkeit, Text innerhalb einer Spalte nach links, mittig oder nach rechts auszurichten. 
+*GFM* bietet Ihnen zusätzlich die Möglichkeit, Text innerhalb einer Spalte nach links, mittig oder nach rechts auszurichten. Dazu setzen Sie bei der Trennline zwischen Tabellenkopf und Tabellenkörper Duppelpunkte (`:`) auf die Seite, nach der ausgerichtet werden soll. Bei der Textzentrierung setzen Sie auf beiden Seiten einen Doppelpunkt.
 
 {% highlight text %}
 | Links ausgerichtet | Mittig ausgerichtet | Rechts ausgerichtet |
@@ -156,7 +156,28 @@ Hier sehen Sie den HTML-Quelltext, der aus dem vorherigen *Markdown*/*GFM*-Beisp
 | Inhalt             | Inhalt              | Inhalt              |
 {% endhighlight %}
 
-| Links ausgerichtet | Mittig ausgerichtet | Rechts ausgerichtet |
-|:------------------ |:-------------------:| -------------------:|
-| Inhalt             | Inhalt              | Inhalt              |
-| Inhalt             | Inhalt              | Inhalt              |
+Hier sehen Sie den HTML-Quelltext, der aus dem vorherigen *GFM*-Beispiel erzeugt wird.
+
+{% highlight html %}
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Links ausgerichtet</th>
+      <th style="text-align: center">Mittig ausgerichtet</th>
+      <th style="text-align: right">Rechts ausgerichtet</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Inhalt</td>
+      <td style="text-align: center">Inhalt</td>
+      <td style="text-align: right">Inhalt</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Inhalt</td>
+      <td style="text-align: center">Inhalt</td>
+      <td style="text-align: right">Inhalt</td>
+    </tr>
+  </tbody>
+</table>
+{% endhighlight %}
