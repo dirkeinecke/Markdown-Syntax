@@ -1,6 +1,6 @@
 ---
 title: Markdown-Syntax - Betonungen
-description: Markdown-Syntax - Betonungen
+description: Auf dieser Seite wird Ihnen gezeigt, wie Sie mit Markdown Texte als 'betont' und als 'stark betont' markieren.
 ---
 
 ## Betonungen
