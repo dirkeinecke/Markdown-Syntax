@@ -1,6 +1,6 @@
 ---
 title: Markdown-Syntax - Absätze
-description: Markdown-Syntax - Absätze
+description: Auf dieser Seite sehen Sie, wie man mit Markdown Textabsätze erstellt.
 ---
 
 ## Absätze
