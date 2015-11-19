@@ -1,6 +1,6 @@
 ---
 title: Markdown-Syntax - Zeilenumbrüche
-description: Markdown-Syntax - Zeilenumbrüche
+description: Auf dieser Seite wird Ihnen gezeigt, wie Sie in einem Markdown-Dokument Zeilenumbrüche einfügen.
 ---
 
 ## Zeilenumbruche
