@@ -1,6 +1,6 @@
 ---
 title: Markdown-Syntax - Quelltext-Blöcke
-description: Markdown-Syntax - Quelltext-Blöcke
+description: Auf dieser Seite wird Ihnen gezeigt, wie Sie mit Markdown Quelltext-Blöcke anlegen.
 ---
 
 ## Quelltext-Blöcke
