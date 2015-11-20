@@ -8,7 +8,7 @@ description: Auf dieser Seite können Sie die Markdown-Syntax online ausprobiere
 Hier können Sie einmal selbst ausprobieren, wie Markdown-Syntax in HTML-Quelltext umgewandelt wird.
 
 <div class="row">
-	<div class="col-xxs-12 col-xs-12 col-s-8 col-m-8 col-l-8">
+	<div class="col-xxs-12 col-xs-12 col-s-9 col-m-9 col-l-9">
 <h3><em>Markdown</em>-Quelltext</h3>
 
 <form>
@@ -37,7 +37,7 @@ Ein Absatz.
 
 <div id="online-demo-output"></div>
 	</div>
-	<div class="col-xxs-12 col-xs-12 col-s-4 col-m-4 col-l-4" id="online-demo-cheatsheet">
+	<div class="col-xxs-12 col-xs-12 col-s-3 col-m-3 col-l-3" id="online-demo-cheatsheet">
 <h3>Syntax Cheatsheet</h3>
 
 <ul>
