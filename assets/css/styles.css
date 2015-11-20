@@ -79,6 +79,10 @@ footer p {
 
 /* ---------- ONLINE DEMO ---------- */
 
+#online-demo-input {
+  height: 300px;
+}
+
 #online-demo-html-code {
   padding: 1rem;
   border: thin solid #dfdfdf;
