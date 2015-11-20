@@ -40,7 +40,7 @@ Ein Absatz.
 	<div class="col-xxs-12 col-xs-12 col-s-3 col-m-3 col-l-3" id="online-demo-cheatsheet">
 <h3>Syntax Cheatsheet</h3>
 
-<ul>
+<ul class="no-bullets">
 <li><a href="http://markdown-syntax.de/Syntax/Ueberschriften/?Modal" data-modal-title="Markdown - Überschriften">Überschriften</a></li>
 <li><a href="http://markdown-syntax.de/Syntax/Absaetze/?Modal" data-modal-title="Markdown - Absätze">Absätze</a></li>
 <li><a href="http://markdown-syntax.de/Syntax/Zeilenumbrueche/?Modal" data-modal-title="Markdown - Zeilenumbrüche">Zeilenumbrüche</a></li>
