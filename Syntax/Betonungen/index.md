@@ -77,4 +77,4 @@ Durch beide *Markdown*-Beispiele wird folgender HTML-Quelltext erzeugt.
 Mar<strong>kd</strong>own
 {% endhighlight %}
 
-**Achtung:** Bei GitHub kann man innerhalb eines Wortes die starte Betonung mit zwei Unterstrichen (`__`) nicht verwenden.
+**Achtung:** Bei GitHub kann man innerhalb eines Wortes die starke Betonung mit zwei Unterstrichen (`__`) nicht verwenden.
