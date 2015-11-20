@@ -9,6 +9,6 @@ function nl2br(str) {
 function onlineDemoConvert(markdown) {
   var converter = new showdown.Converter();
   html = converter.makeHtml(markdown);
-  document.getElementById('online-demo-html-code').innerHTML = htmlEntities(nl2br(html));
+  document.getElementById('online-demo-html-code').innerHTML = nl2br(htmlEntities(html));
   document.getElementById('online-demo-output').innerHTML = html;
 }
