@@ -37,7 +37,7 @@ Ein Absatz.
 
 <div id="online-demo-output"></div>
 	</div>
-	<div class="col-xxs-12 col-xs-12 col-s-3 col-m-3 col-l-3">
+	<div class="col-xxs-12 col-xs-12 col-s-3 col-m-3 col-l-3" id="online-demo-cheatsheet">
 <h3>Syntax Cheatsheet</h3>
 
 <h4>Überschriften (Setext)</h4>
