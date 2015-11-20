@@ -6,6 +6,7 @@ description: Auf dieser Seite können Sie die Markdown-Syntax online ausprobiere
 ## Online-Demo
 
 <form>
-  <textarea onchange="onlineDemoConvert(this.value)"></textarea>
+  <textarea onchange="onlineDemoConvert(this.value)" oninput="onlineDemoConvert(this.value)"></textarea>
   <div id="online-demo-html-code"></div>
+  <div id="online-demo-output"></div>
 </form>
