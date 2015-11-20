@@ -40,55 +40,20 @@ Ein Absatz.
 	<div class="col-xxs-12 col-xs-12 col-s-4 col-m-4 col-l-4" id="online-demo-cheatsheet">
 <h3>Syntax Cheatsheet</h3>
 
-<h4>Überschriften (Setext)</h4>
-
-{% highlight text %}
-Überschrift ersten Grades
-=========================
-{% endhighlight %}
-
-{% highlight text %}
-Überschrift zweiten Grades
---------------------------
-{% endhighlight %}
-	
-<h4>Überschriften (atx)</h4>
-
-{% highlight text %}
-# Überschrift ersten Grades
-{% endhighlight %}
-
-{% highlight text %}
-## Überschrift zweiten Grades
-{% endhighlight %}
-
-<h4>Absätze</h4>
-
-{% highlight text %}
-Das ist ein Text.
-{% endhighlight %}
-
-<h4>Zeilenumbruche</h4>
-
-<p><small>zwei Leerzeichen am Zeilenende</small></p>
-
-{% highlight text %}
-Das ist ein Text.
-{% endhighlight %}
-
-<h4>Listen</h4>
-
-{% highlight text %}
-* Eintrag 1
-* Eintrag 2
-* Eintrag 3
-{% endhighlight %}
-
-{% highlight text %}
-1. Eintrag 1
-2. Eintrag 2
-3. Eintrag 3
-{% endhighlight %}
+<ul>
+<li><a href="http://markdown-syntax.de/Syntax/Ueberschriften/?Modal" data-modal-title="Überschriften">Überschriften</a></li>
+<li><a href="http://markdown-syntax.de/XXX/?Modal" data-modal-title="">Absätze</a></li>
+<li><a href="http://markdown-syntax.de/XXX/?Modal" data-modal-title="">Zeilenumbrüche</a></li>
+<li><a href="http://markdown-syntax.de/XXX/?Modal" data-modal-title="">Listen</a></li>
+<li><a href="http://markdown-syntax.de/XXX/?Modal" data-modal-title="">Zitate</a></li>
+<li><a href="http://markdown-syntax.de/XXX/?Modal" data-modal-title="">Horizontale Linien</a></li>
+<li><a href="http://markdown-syntax.de/XXX/?Modal" data-modal-title="">Betonungen</a></li>
+<li><a href="http://markdown-syntax.de/XXX/?Modal" data-modal-title="">Bilder</a></li>
+<li><a href="http://markdown-syntax.de/XXX/?Modal" data-modal-title="">Quelltext</a></li>
+<li><a href="http://markdown-syntax.de/XXX/?Modal" data-modal-title="">Quelltext-Blöcke</a></li>
+<li><a href="http://markdown-syntax.de/XXX/?Modal" data-modal-title="">Automatische Verlinkungen</a></li>
+<li><a href="http://markdown-syntax.de/XXX/?Modal" data-modal-title="">Automatische Maskierung besonderer Zeichen</a></li>
+</ul>
 
 	</div>
 </div>
