@@ -5,6 +5,8 @@ description: Auf dieser Seite können Sie die Markdown-Syntax online ausprobiere
 
 ## Online-Demo
 
+### *Markdown*-Eingabe
+
 <form>
   <textarea id="online-demo-input" onchange="onlineDemoConvert(this.value)" oninput="onlineDemoConvert(this.value)">
 # Überschrift 1
@@ -21,9 +23,15 @@ Ein Absatz.
 * eine Liste
 * eine Liste
   </textarea>
-  <div id="online-demo-html-code"></div>
-  <div id="online-demo-output"></div>
 </form>
+
+### HTML-Quelltext
+
+<div id="online-demo-html-code"></div>
+
+### Ausgabe
+
+<div id="online-demo-output"></div>
 
 <script type="text/javascript">
   $(function() {
