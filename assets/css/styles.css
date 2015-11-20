@@ -83,14 +83,12 @@ footer p {
   height: 300px;
 }
 
-#online-demo-html-code {
-  padding: 1rem;
-  border: thin solid #dfdfdf;
-}
-
+#online-demo-html-code,
 #online-demo-output {
   padding: 1rem;
   border: thin solid #dfdfdf;
+  max-height: 300px;
+  overflow: auto;
 }
 
 /* ---------- /ONLINE DEMO ---------- */
