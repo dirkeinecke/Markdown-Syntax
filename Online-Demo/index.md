@@ -9,7 +9,7 @@ Hier können Sie einmal selbst ausprobieren, wie Markdown-Syntax in HTML-Quellte
 
 <div class="row">
 	<div class="col-xxs-12 col-xs-12 col-s-9 col-m-9 col-l-9">
-### *Markdown*-Quelltext
+<h3><em>Markdown</em>-Quelltext</h3>
 
 <form>
   <textarea id="online-demo-input" onchange="onlineDemoConvert(this.value)" oninput="onlineDemoConvert(this.value)">
@@ -29,18 +29,18 @@ Ein Absatz.
   </textarea>
 </form>
 
-### HTML-Quelltext
+<h3>HTML-Quelltext</h3>
 
 <div id="online-demo-html-code"></div>
 
-### HTML-Vorschau
+<h3>HTML-Vorschau</h3>
 
 <div id="online-demo-output"></div>
 	</div>
 	<div class="col-xxs-12 col-xs-12 col-s-3 col-m-3 col-l-3">
-### Syntax Cheatsheet
+<h3>Syntax Cheatsheet</h3>
 
-### Überschriften (Setext)
+<h4>Überschriften (Setext)</h4>
 
 {% highlight text %}
 Überschrift ersten Grades
@@ -52,7 +52,7 @@ Ein Absatz.
 --------------------------
 {% endhighlight %}
 	
-### Überschriften (atx)
+<h4>Überschriften (atx)</h4>
 
 {% highlight text %}
 # Überschrift ersten Grades
