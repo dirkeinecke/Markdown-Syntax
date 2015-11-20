@@ -28,14 +28,6 @@ Ein Absatz.
 * eine Liste
   </textarea>
 </form>
-
-<h3>HTML-Quelltext</h3>
-
-<div id="online-demo-html-code"></div>
-
-<h3>HTML-Vorschau</h3>
-
-<div id="online-demo-output"></div>
 	</div>
 	<div class="col-xxs-12 col-xs-12 col-s-3 col-m-3 col-l-3" id="online-demo-cheatsheet">
 <h3>Syntax Cheatsheet</h3>
@@ -54,11 +46,13 @@ Ein Absatz.
 <li><a href="http://markdown-syntax.de/Syntax/Automatische-Verlinkungen/?Modal" data-modal-title="Markdown - Automatische Verlinkungen">Automatische Verlinkungen</a></li>
 <li><a href="http://markdown-syntax.de/Syntax/Automatische-Maskierung-besonderer-Zeichen/?Modal" data-modal-title="Markdown - Automatische Maskierung besonderer Zeichen">Automatische Maskierung besonderer Zeichen</a></li>
 </ul>
-
 	</div>
 </div>
 
+<h3>HTML-Quelltext</h3>
+<div id="online-demo-html-code"></div>
 
-
+<h3>HTML-Vorschau</h3>
+<div id="online-demo-output"></div>
 
 <script type="text/javascript">onlineDemoConvert(document.getElementById('online-demo-input').value);</script>
