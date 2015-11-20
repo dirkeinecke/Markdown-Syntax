@@ -7,6 +7,8 @@ description: Auf dieser Seite können Sie die Markdown-Syntax online ausprobiere
 
 Hier können Sie einmal selbst ausprobieren, wie Markdown-Syntax in HTML-Quelltext umgewandelt wird.
 
+<div class="row">
+	<div class="col-xxs-12 col-xs-12 col-s-9 col-m-9 col-l-9">
 ### *Markdown*-Quelltext
 
 <form>
@@ -34,5 +36,38 @@ Ein Absatz.
 ### HTML-Vorschau
 
 <div id="online-demo-output"></div>
+	</div>
+	<div class="col-xxs-12 col-xs-12 col-s-3 col-m-3 col-l-3">
+### Syntax Cheatsheet
+
+### Überschriften (Setext)
+
+{% highlight text %}
+Überschrift ersten Grades
+=========================
+{% endhighlight %}
+
+{% highlight text %}
+Überschrift zweiten Grades
+--------------------------
+{% endhighlight %}
+	
+### Überschriften (atx)
+
+{% highlight text %}
+# Überschrift ersten Grades
+{% endhighlight %}
+
+{% highlight text %}
+## Überschrift zweiten Grades
+{% endhighlight %}
+	
+	
+	
+	</div>
+</div>
+
+
+
 
 <script type="text/javascript">onlineDemoConvert(document.getElementById('online-demo-input').value);</script>
