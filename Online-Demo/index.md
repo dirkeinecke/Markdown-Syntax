@@ -5,7 +5,9 @@ description: Auf dieser Seite können Sie die Markdown-Syntax online ausprobiere
 
 ## Online-Demo
 
-### *Markdown*-Eingabe
+Hier können Sie einmal selbst ausprobieren, wie Markdown-Syntax in HTML-Quelltext umgewandelt wird.
+
+### *Markdown*-Quelltext
 
 <form>
   <textarea id="online-demo-input" onchange="onlineDemoConvert(this.value)" oninput="onlineDemoConvert(this.value)">
@@ -29,7 +31,7 @@ Ein Absatz.
 
 <div id="online-demo-html-code"></div>
 
-### Ausgabe
+### HTML-Vorschau
 
 <div id="online-demo-output"></div>
 
