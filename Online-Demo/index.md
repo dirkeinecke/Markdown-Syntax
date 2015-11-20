@@ -33,18 +33,18 @@ Ein Absatz.
 <h3>Syntax Cheatsheet</h3>
 
 <ul class="no-bullets">
-<li><a href="http://markdown-syntax.de/Syntax/Ueberschriften/?Modal" data-modal-title="Markdown - Überschriften">Überschriften</a></li>
-<li><a href="http://markdown-syntax.de/Syntax/Absaetze/?Modal" data-modal-title="Markdown - Absätze">Absätze</a></li>
-<li><a href="http://markdown-syntax.de/Syntax/Zeilenumbrueche/?Modal" data-modal-title="Markdown - Zeilenumbrüche">Zeilenumbrüche</a></li>
-<li><a href="http://markdown-syntax.de/Syntax/Listen/?Modal" data-modal-title="Markdown - Listen">Listen</a></li>
-<li><a href="http://markdown-syntax.de/Syntax/Zitate/?Modal" data-modal-title="Markdown - Zitate">Zitate</a></li>
-<li><a href="http://markdown-syntax.de/Syntax/Horizontale-Linien/?Modal" data-modal-title="Markdown - Horizontale Linien">Horizontale Linien</a></li>
-<li><a href="http://markdown-syntax.de/Syntax/Betonungen/?Modal" data-modal-title="Markdown - Betonungen">Betonungen</a></li>
-<li><a href="http://markdown-syntax.de/Syntax/Bilder/?Modal" data-modal-title="Markdown - Bilder">Bilder</a></li>
-<li><a href="http://markdown-syntax.de/Syntax/Quelltext/?Modal" data-modal-title="Markdown - Quelltext">Quelltext</a></li>
-<li><a href="http://markdown-syntax.de/Syntax/Quelltext-Bloecke/?Modal" data-modal-title="Markdown - Quelltext-Blöcke">Quelltext-Blöcke</a></li>
-<li><a href="http://markdown-syntax.de/Syntax/Automatische-Verlinkungen/?Modal" data-modal-title="Markdown - Automatische Verlinkungen">Automatische Verlinkungen</a></li>
-<li><a href="http://markdown-syntax.de/Syntax/Automatische-Maskierung-besonderer-Zeichen/?Modal" data-modal-title="Markdown - Automatische Maskierung besonderer Zeichen">Automatische Maskierung besonderer Zeichen</a></li>
+<li><a href="http://markdown-syntax.de/Syntax/Ueberschriften/?Modal" data-modal-title="Überschriften">Überschriften</a></li>
+<li><a href="http://markdown-syntax.de/Syntax/Absaetze/?Modal" data-modal-title="Absätze">Absätze</a></li>
+<li><a href="http://markdown-syntax.de/Syntax/Zeilenumbrueche/?Modal" data-modal-title="Zeilenumbrüche">Zeilenumbrüche</a></li>
+<li><a href="http://markdown-syntax.de/Syntax/Listen/?Modal" data-modal-title="Listen">Listen</a></li>
+<li><a href="http://markdown-syntax.de/Syntax/Zitate/?Modal" data-modal-title="Zitate">Zitate</a></li>
+<li><a href="http://markdown-syntax.de/Syntax/Horizontale-Linien/?Modal" data-modal-title="Horizontale Linien">Horizontale Linien</a></li>
+<li><a href="http://markdown-syntax.de/Syntax/Betonungen/?Modal" data-modal-title="Betonungen">Betonungen</a></li>
+<li><a href="http://markdown-syntax.de/Syntax/Bilder/?Modal" data-modal-title="Bilder">Bilder</a></li>
+<li><a href="http://markdown-syntax.de/Syntax/Quelltext/?Modal" data-modal-title="Quelltext">Quelltext</a></li>
+<li><a href="http://markdown-syntax.de/Syntax/Quelltext-Bloecke/?Modal" data-modal-title="Quelltext-Blöcke">Quelltext-Blöcke</a></li>
+<li><a href="http://markdown-syntax.de/Syntax/Automatische-Verlinkungen/?Modal" data-modal-title="Automatische Verlinkungen">Automatische Verlinkungen</a></li>
+<li><a href="http://markdown-syntax.de/Syntax/Automatische-Maskierung-besonderer-Zeichen/?Modal" data-modal-title="Automatische Maskierung besonderer Zeichen">Automatische Maskierung besonderer Zeichen</a></li>
 </ul>
 	</div>
 </div>
