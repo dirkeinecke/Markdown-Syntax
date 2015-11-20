@@ -72,3 +72,17 @@ footer p {
 .sidebar ul li a.active {
   font-weight: 500;
 }
+
+/* ---------- ONLINE DEMO ---------- */
+
+#online-demo-html-code {
+  padding: 1rem;
+  border: thin solid #dfdfdf;
+}
+
+#online-demo-output {
+  padding: 1rem;
+  border: thin solid #dfdfdf;
+}
+
+/* ---------- /ONLINE DEMO ---------- */
