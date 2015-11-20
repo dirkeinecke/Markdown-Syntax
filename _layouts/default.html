@@ -17,5 +17,10 @@
 			{% include footer.html %}
 		</div>
 		<script async defer id="github-bjs" src="https://buttons.github.io/buttons.js"></script>
+		<script type="text/javascript">
+			if (window.document.location.search.indexOf('Modal') > -1) {
+				$('body > div.container > header, body > div.container > footer').remove();
+			}
+		</script>
 	</body>
 </html>
