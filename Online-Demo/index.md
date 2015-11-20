@@ -33,8 +33,4 @@ Ein Absatz.
 
 <div id="online-demo-output"></div>
 
-<script type="text/javascript">
-  $(function() {
-    onlineDemoConvert(document.getElementById('online-demo-input').value);
-  });
-</script>
+<script type="text/javascript">onlineDemoConvert(document.getElementById('online-demo-input').value);</script>
