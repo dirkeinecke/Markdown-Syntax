@@ -14,9 +14,7 @@ Hier können Sie einmal selbst ausprobieren, wie Markdown-Syntax in HTML-Quellte
 <form>
   <textarea id="online-demo-input" onchange="onlineDemoConvert(this.value)" oninput="onlineDemoConvert(this.value)">
 # Überschrift 1
-
 ## Überschrift 2
-
 ### Überschrift 3
 
 Ein Absatz.
