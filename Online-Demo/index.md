@@ -61,9 +61,35 @@ Ein Absatz.
 {% highlight text %}
 ## Überschrift zweiten Grades
 {% endhighlight %}
-	
-	
-	
+
+<h4>Absätze</h4>
+
+{% highlight text %}
+Das ist ein Text.
+{% endhighlight %}
+
+<h4>Zeilenumbruche</h4>
+
+<p><small>zwei Leerzeichen am Zeilenende</small></p>
+
+{% highlight text %}
+Das ist ein Text.
+{% endhighlight %}
+
+<h4>Listen</h4>
+
+{% highlight text %}
+* Eintrag 1
+* Eintrag 2
+* Eintrag 3
+{% endhighlight %}
+
+{% highlight text %}
+1. Eintrag 1
+2. Eintrag 2
+3. Eintrag 3
+{% endhighlight %}
+
 	</div>
 </div>
 
