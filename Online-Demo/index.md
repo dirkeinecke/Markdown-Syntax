@@ -24,3 +24,9 @@ Ein Absatz.
   <div id="online-demo-html-code"></div>
   <div id="online-demo-output"></div>
 </form>
+
+<script type="text/javascript">
+  $(function() {
+    onlineDemoConvert(document.getElementById('online-demo-input').value);
+  });
+</script>
