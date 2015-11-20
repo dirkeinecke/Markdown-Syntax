@@ -92,7 +92,7 @@ footer p {
 }
 
 #online-demo-cheatsheet {
-  font-size: 50%;
+  font-size: 0.5rem !important;
 }
 
 /* ---------- /ONLINE DEMO ---------- */
