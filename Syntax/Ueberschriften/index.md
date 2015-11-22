@@ -16,7 +16,7 @@ description: Markdown bietet zwei verschiedene Möglichkeiten, Überschriften au
 =========================
 {% endhighlight %}
 
-Hier sehen Sie den HTML-Quelltext, der aus dem vorherigen Markdown-Beispiel erzeugt wird.
+Hier sehen Sie den HTML-Quelltext, der aus dem vorherigen *Markdown*-Beispiel erzeugt wird.
 
 {% highlight html %}
 <h1>Überschrift ersten Grades</h1>
@@ -29,7 +29,7 @@ Hier sehen Sie den HTML-Quelltext, der aus dem vorherigen Markdown-Beispiel erze
 --------------------------
 {% endhighlight %}
 
-Hier sehen Sie den HTML-Quelltext, der aus dem vorherigen Markdown-Beispiel erzeugt wird.
+Hier sehen Sie den HTML-Quelltext, der aus dem vorherigen *Markdown*-Beispiel erzeugt wird.
 
 {% highlight html %}
 <h2>Überschrift zweiten Grades</h2>
@@ -45,7 +45,7 @@ Weitere Überschriftenebenen (`<h3>` bis `<h6>`) sind mit dieser Variante nicht 
 # Überschrift ersten Grades
 {% endhighlight %}
 
-Hier sehen Sie den HTML-Quelltext, der aus dem vorherigen Markdown-Beispiel erzeugt wird.
+Hier sehen Sie den HTML-Quelltext, der aus dem vorherigen *Markdown*-Beispiel erzeugt wird.
 
 {% highlight html %}
 <h1>Überschrift ersten Grades</h1>
