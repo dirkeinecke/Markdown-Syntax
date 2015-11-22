@@ -43,9 +43,9 @@ a:hover {
 
 a[href^="http://"]:after, 
 a[href^="https://"]:after {
-  font-size: .75em;
-  color: #666;
-  padding-left: 4px;
+  font-size: 0.6rem;
+  color: #3362b3;
+  padding-left: 0.2rem;
   font-family: 'FontAwesome';
   content: "\f08e";
 } 
