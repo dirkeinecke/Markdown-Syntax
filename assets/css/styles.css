@@ -41,6 +41,15 @@ a:hover {
   text-decoration: none;
 }
 
+a[href^="http://"]:after, 
+a[href^="https://"]:after {
+  font-size: .75em;
+  color: #666;
+  padding-left: 4px;
+  font-family: 'FontAwesome';
+  content: "\f08e";
+} 
+
 textarea {
   resize: none;
 }
