@@ -6,7 +6,7 @@
 		{% for link in site.data.navigation %}
 			<option value="{{ link.path }}">{{ link.text }}</option>
 			{% for item_1 in link.items %}
-				<option value="{{ item_1.path }}" class="level-2">{{ link.text }} - {{ item_1.text }}</option>
+				<option value="{{ item_1.path }}">{{ link.text }} - {{ item_1.text }}</option>
 			{% endfor %}
 		{% endfor %}
 	</select>
