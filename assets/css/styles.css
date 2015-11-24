@@ -83,6 +83,10 @@ footer p {
     display: none;
   }
 
+  .sidebar form select option.level-2 {
+    padding-left: 1rem;
+  }
+
   .sidebar ul {
     display: block;
   }
