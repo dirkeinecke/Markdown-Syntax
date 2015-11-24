@@ -79,6 +79,10 @@ footer p {
     margin-top: 2.8rem;
   }
 
+  .sidebar form {
+    display: none;
+  }
+
   .sidebar ul {
     display: block;
   }
