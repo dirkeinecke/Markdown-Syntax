@@ -2,7 +2,7 @@
 
 <form>
 	<select size="1" onchange="goTo(this.value)">
-		<option></option>
+		<option value="">Navigation</option>
 		{% for link in site.data.navigation %}
 			<option value="{{ link.path }}">{{ link.text }}</option>
 			{% for item_1 in link.items %}
