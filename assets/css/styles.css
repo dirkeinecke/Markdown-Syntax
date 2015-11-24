@@ -66,8 +66,22 @@ footer p {
 }
 
 .sidebar {
-  margin-top: 2.8rem;
+  margin-top: 0;
   font-size: 0.8rem;
+}
+
+.sidebar ul {
+  display: none;
+}
+
+@media (min-width: 768px) {
+  .sidebar {
+    margin-top: 2.8rem;
+  }
+
+  .sidebar ul {
+    display: block;
+  }
 }
 
 .sidebar ul li a {
@@ -85,6 +99,8 @@ footer p {
 .sidebar ul li a.active {
   font-weight: 500;
 }
+
+768px
 
 /* ---------- ONLINE DEMO ---------- */
 
