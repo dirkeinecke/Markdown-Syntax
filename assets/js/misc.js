@@ -12,3 +12,7 @@ function onlineDemoConvert(markdown) {
   document.getElementById('online-demo-html-code').innerHTML = nl2br(htmlEntities(html));
   document.getElementById('online-demo-output').innerHTML = html;
 }
+
+function goTo(path) {
+  document.location.href = path;
+}
