@@ -1,12 +1,12 @@
 {% assign page_url = page.url | remove: 'index.html' %}
 
 <form>
-	<select size="1" onchnage="goTo(this.value)">
+	<select size="1" onchange="goTo(this.value)">
 		<option></option>
 		{% for link in site.data.navigation %}
-			<option value="{{ link.path }}">- {{ link.text }}</option>
+			<option value="{{ link.path }}">{{ link.text }}</option>
 			{% for item_1 in link.items %}
-				<option value="{{ item_1.path }}">-- {{ item_1.text }}</option>
+				<option value="{{ item_1.path }}" class="level-2">{{ link.text }} - {{ item_1.text }}</option>
 			{% endfor %}
 		{% endfor %}
 	</select>
