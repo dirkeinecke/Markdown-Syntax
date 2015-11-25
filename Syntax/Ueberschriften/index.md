@@ -51,7 +51,7 @@ Hier sehen Sie den HTML-Quelltext, der aus dem vorherigen *Markdown*-Beispiel er
 <h1>Überschrift ersten Grades</h1>
 {% endhighlight %}
 
-Für die nächsten Beispiele sind die erzeugten HTML-Quelltext dementsprechend equivalent und ich werde mir das Notieren dieser hier sparen.
+Für die nächsten Beispiele sind die erzeugten HTML-Quelltext dementsprechend equivalent und ich werde mir das Notieren dieser sparen.
 
 Überschriften zweiten Grades (`<h2>`) werden durch **zwei Rauten** am Zeilenanfang kenntlich gemacht.
 
