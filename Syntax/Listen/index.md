@@ -9,7 +9,7 @@ description: Auf dieser Seite wird Ihnen gezeigt, wie Sie mit Markdown unsortier
 
 ### Unsortierte Listen
 
-Bei unsortierten Listen kann als Eintragskennzeichen das Sternchen (`*`), das Plus (`+`) oder der Bindestrich (`-`) verwendet werden. Innerhalb einer Liste *können* die Eintragskennzeichen auch gemischt werden. Der Übersichtlichkeit halber sollte man dies aber nicht machen.
+Bei unsortierten Listen können Sie Eintragskennzeichen das Sternchen (`*`), das Plus (`+`) oder der Bindestrich (`-`) verwenden. Innerhalb einer Liste *können* Sie die Eintragskennzeichen auch mischen. Der Übersichtlichkeit halber sollten Sie dies aber nicht machen.
 
 Die folgenden *Markdown*-Beispiele sind, was den daraus erzeugten HTML-Quelltext angeht, identisch.
 
