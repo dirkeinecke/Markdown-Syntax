@@ -61,7 +61,7 @@ Durch beide *Markdown*-Beispiele wird folgender HTML-Quelltext erzeugt.
 Das ist <strong>ein</strong> Text.
 {% endhighlight %}
 
-Sie können diese Betonung auch innerhalb eines Wortes verwenden, so wie es das folgende Beispiel zeigt.
+Sie können diese Betonung auch innerhalb eines Wortes verwenden, so wie es die folgenden beiden Beispiel zeigen.
 
 {% highlight text %}
 Mar__kd__own
