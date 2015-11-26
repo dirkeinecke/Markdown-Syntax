@@ -29,7 +29,7 @@ Durch dieses *Markdown*-Beispiele wird folgender HTML-Quelltext erzeugt.
 <p><code>Verwenden Sie das Backtick-Zeichen (`)</code>.</p>
 {% endhighlight %}
 
-Möchten Sie innerhalb des Textes nur das Backtick-Zeichen (`` ` ``) als Quelltext kenntlich machen, dann umschließen Sie es wieder mit jeweils zwei Backtick-Zeichen und einem Leerzeichen. Die Leerzeichen stehen dabei nach dem öffnenen doppelten Backtick-Zeichen und vor dem schließenden doppelten Backtick-Zeichen. Das folgende Beispiel veranschaulicht dies.
+Möchten Sie innerhalb des Textes nur das Backtick-Zeichen (`` ` ``) als Quelltext kenntlich machen, dann umschließen Sie es wieder mit jeweils zwei Backtick-Zeichen und einem Leerzeichen. Die Leerzeichen stehen dabei nach dem öffnenen doppelten Backtick-Zeichen und vor dem schließenden doppelten Backtick-Zeichen. Die beiden Leerzeichen sind dann im generierten HTML-Quelltext nicht enthalten. Das folgende Beispiel veranschaulicht dies.
 
 {% highlight text %}
 Verwenden Sie das Backtick-Zeichen (`` ` ``).
