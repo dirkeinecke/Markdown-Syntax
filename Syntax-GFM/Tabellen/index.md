@@ -45,7 +45,7 @@ Hier sehen Sie den HTML-Quelltext, der aus dem vorherigen *GFM*-Beispiel erzeugt
 </table>
 {% endhighlight %}
 
-*GFM* bietet Ihnen auch die Möglichkeit, an den Anfang und an das Ende jeder Zeile Pipes (`|`) zu setzen. Von der Ausgabe ändert sich dadurch nichts. Es sieht nur für den ein oder anderen beim Bearbeiten der Tabelle besser aus.
+*GFM* bietet Ihnen auch die Möglichkeit, an den Anfang und an das Ende jeder Zeile Pipes (`|`) zu setzen. Die Ausgabe ändert sich dadurch nicht. Es sieht nur für den ein oder anderen beim Bearbeiten der Tabelle besser aus.
 
 {% highlight text %}
 | Spalte 1 | Spalte 2 | Spalte 3 |
