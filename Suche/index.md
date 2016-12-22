@@ -10,7 +10,7 @@ description: Markdown-Syntax Suche
 <script>
 var tipuesearch = {"pages": [
   {% for page in site.pages %}
-    {% if page.url contains "/Suche/" or page.url contains "/Sitemap/" %}
+    {% if page.url contains "/Suche/" or page.url contains "/Sitemap/" or page.url contains "/sitemap.xml" %}
     
     {% else %}
       {"title": "{{page.title}}", "text": "{{page.content | markdownify | strip_html | strip_newlines | xml_escape}}", "tags": "", "url": "{{page.url}}"},
