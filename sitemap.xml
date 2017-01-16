@@ -8,7 +8,7 @@ layout: null
 
     {% else %}
       <url>
-        <loc>https://www.texte-zur-taufe.de{{ page.url | remove: 'index.html' }}</loc>
+        <loc>http://markdown-syntax.de{{ page.url | remove: 'index.html' }}</loc>
         <lastmod>{{ site.time | date: '%Y-%m-%d' }}</lastmod>
         <changefreq>daily</changefreq>
         <priority>1</priority>
