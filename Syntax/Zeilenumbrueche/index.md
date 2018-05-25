@@ -7,7 +7,7 @@ description: Auf dieser Seite wird Ihnen gezeigt, wie Sie in einem Markdown-Doku
 
 Um mit *Markdown* einen Zeilenumbruch (`<br>`-Tag) zu erzeugen, setzen Sie zwei Leerzeichen an das Zeilenende.
 
-Der folgende Quelltext zeigt Ihnen, wie man mit *Markdown* einen Zeilenumbruch erzeugt. Beachten Sie, dass hier die Lerrzeichen am Ende von Zeile eins und Zeile zwei nicht direkt sichtbar sind. Aber glauben Sie mir, sie sind vorhanden.
+Der folgende Quelltext zeigt Ihnen, wie man mit *Markdown* einen Zeilenumbruch erzeugt. Beachten Sie, dass hier die Leerzeichen am Ende von Zeile eins und Zeile zwei nicht direkt sichtbar sind. Aber glauben Sie mir, sie sind vorhanden.
 
 {% highlight text %}
 Das ist ein Text in Zeile 1.  
