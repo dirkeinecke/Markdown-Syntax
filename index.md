@@ -1,5 +1,5 @@
 ---
 title: Markdown-Syntax
 description: Markdown-Syntax
-redirect_to: http://markdown-syntax.de/Was-ist-Markdown/
+redirect_to: https://markdown-syntax.de/Was-ist-Markdown/
 ---

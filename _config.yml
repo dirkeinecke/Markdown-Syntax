@@ -1,7 +1,7 @@
 encoding: utf-8
 timezone: Europe/Berlin
 
-baseurl: http://markdown-syntax.de
+baseurl: https://markdown-syntax.de
 
 gems:
   - jekyll-sitemap

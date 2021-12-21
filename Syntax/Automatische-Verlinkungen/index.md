@@ -12,13 +12,13 @@ description: Diese Seite zeigt Ihnen, wie Sie mit Markdown URLs und E-Mail-Adres
 Wenn Sie mittels *Markdown* einen URL automatisch in einen Link umwandeln lassen möchten, dann umschließen Sie den URL mit spitzen Klammern (`<` und `>`). Das folgende Beispiel zeigt dies exemplarisch.
 
 {% highlight text %}
-<http://markdown-syntax.de>
+<https://markdown-syntax.de>
 {% endhighlight %}
 
 Dieser HTML-Quelltext zeigt Ihnen, was aus dem vorherigen *Markdown*-Beispiel generiert wird.
 
 {% highlight html %}
-<a href="http://markdown-syntax.de">http://markdown-syntax.de</a>
+<a href="https://markdown-syntax.de">https://markdown-syntax.de</a>
 {% endhighlight %}
 
 ### Automatische Verlinkung von E-Mail-Adressen
