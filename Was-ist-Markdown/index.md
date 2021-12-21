@@ -1,9 +1,6 @@
 ---
 title: Was ist Markdown
 description: Auf dieser Seite erfahren Sie, um was es sich bei Markdown handelt.
-redirect_from:
-  - /
-  - /index.html
 ---
 
 ## Was ist *Markdown*
