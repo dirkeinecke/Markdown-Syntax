@@ -10,7 +10,7 @@ GitHub hat unter dem Begriff "GitHub Flavored Markdown" (kurz *GFM*) die Standar
 **Hinweis:**  
 Die Tabellen-Syntax von *GFM* funktioniert direkt auf der GitHub-Seite und auch auf GitHub-Pages.
 
-Für Tabellen werden bei *GFM* senkrechte Striche (pipe, `|`) zur Abgrenzung der Spalten und Bindestriche (`-`) zur Abgrenzung des Tabellenkopfes (`<thead>`) von Tabellenkörper (`<thody>`) eingesetzt. Das folgende Beispiel zeigt dies.
+Für Tabellen werden bei *GFM* senkrechte Striche (pipe, `|`) zur Abgrenzung der Spalten und Bindestriche (`-`) zur Abgrenzung des Tabellenkopfes (`<thead>`) von Tabellenkörper (`<tbody>`) eingesetzt. Das folgende Beispiel zeigt dies.
 
 {% highlight text %}
 Spalte 1 | Spalte 2 | Spalte 3
